@@ -8,12 +8,12 @@ proofer: false
 
 # site social media and other links
 links:
-  email: contact@a2g1n.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: abhinay.ramaprasad@glasgow.ac.uk
+  orcid: 0000-0001-9372-5526
+  google-scholar: TsSM6-cAAAAJ
   github: a2g1n
-  twitter: a2g1n
-  youtube: a2g1n
+  twitter: ab1nay
+  bluesky: abhinay.bsky.social
 
 ### jekyll settings
 
