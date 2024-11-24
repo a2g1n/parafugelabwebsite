@@ -12,7 +12,7 @@ header {
 }
 
 header a {
-  color: var(--text);
+  color: #3C454C;
   text-decoration: none;
 }
 
