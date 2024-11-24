@@ -1,1 +1,1 @@
-Sitemap: http://www.parafugelab.com/sitemap.xml
+Sitemap: http://parafugelab.com/sitemap.xml
