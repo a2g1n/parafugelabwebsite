@@ -15,10 +15,6 @@ header {
   gap: 20px;
   padding: 20px;
   box-shadow: var(--shadow);
-  background-image: var(--image); // Use the dynamic CSS variable
-  background-size: cover;        // Ensure the image covers the entire header
-  background-position: center;   // Center the image
-  background-repeat: no-repeat;  // Prevent tiling
 
   @if $sticky {
     position: sticky !important;
@@ -30,6 +26,14 @@ header {
 header a {
   color: var(--text);
   text-decoration: none;
+}
+
+.background {
+  background-image: var(--image);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 300px; // Adjust as needed
 }
 
 .home {
