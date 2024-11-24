@@ -2,6 +2,13 @@
 ---
 
 .background {
+ position: relative;
+ background: var(--background);
+ color: var(--text);
+ z-index: 1; 
+}
+
+.background:before {
   content: "";
   position: absolute;
   inset: 0;
@@ -11,11 +18,4 @@
   background-position: 50% 50%;
   opacity: 0.25;
   z-index: -1;
-}
-
-.background:before {
-  position: relative;
-  background: var(--background);
-  color: var(--text);
-  z-index: 1;
 }
