@@ -28,14 +28,6 @@ header a {
   text-decoration: none;
 }
 
-.background {
-  background-image: var(--image);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
-  min-height: 300px; // Adjust as needed
-}
-
 .home {
   display: flex;
   justify-content: flex-start;
