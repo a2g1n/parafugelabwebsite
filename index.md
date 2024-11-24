@@ -1,7 +1,7 @@
 ---
 ---
 
-# a2g1n's Website
+# Decoding malaria parasite biology, many genes at a time
 
 An engaging 1-3 sentence description of your lab.
 
