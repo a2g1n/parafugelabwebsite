@@ -130,7 +130,6 @@ header[data-big] .home {
 }
 header[data-big] .logo {
   height: 160px;
-  flex-shrink: 0;
 }
 header[data-big] .title-text {
   flex-direction: column;
