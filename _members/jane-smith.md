@@ -1,11 +1,11 @@
 ---
-name: Jane Smith
-image: images/photo.jpg
+name: Abhinay Ramaprasad
+image: images/RamaprasadA.jpg
 role: pi
-affiliation: University of Colorado
+affiliation: University of Glasgow
 aliases:
-  - J. Smith
-  - J Smith
+  - A. Ramaprasad
+  - A Ramaprasad
 links:
   home-page: https://janesmith.com
   orcid: 0000-0001-8713-9213
