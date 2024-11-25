@@ -9,6 +9,7 @@
   content: "";
   position: absolute;
   inset: 0;
+  color: #3C454C;
   background-image: var(--image);
   background-size: cover;
   background-repeat: no-repeat;
