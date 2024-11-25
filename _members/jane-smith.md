@@ -1,6 +1,6 @@
 ---
 name: Abhinay Ramaprasad
-image: images/RamaprasadA.jpg
+image: images/RamaprasadA.png
 role: pi
 affiliation: University of Glasgow
 aliases:
