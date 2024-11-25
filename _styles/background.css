@@ -1,7 +1,7 @@
 .background {
   position: relative;
   background: var(--background);
-  color: #3C454C;
+  color: var(--text);
   z-index: 1;
 }
 
