@@ -1,7 +1,7 @@
 [data-dark=false] {
   --primary: #0795d9;
   --secondary: #7dd3fc;
-  --text: #000000;
+  --text: #3C454C;
   --background: #ffffff;
   --background-alt: #fafafa;
   --light-gray: #e0e0e0;
@@ -13,7 +13,7 @@
 [data-dark=true] {
   --primary: #0795d9;
   --secondary: #075985;
-  --text: #ffffff;
+  --text: #F2F2F2;
   --background: #181818;
   --background-alt: #1c1c1c;
   --light-gray: #404040;
