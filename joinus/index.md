@@ -2,8 +2,8 @@
 ---
 title: Join us
 nav:
-  order: 6
-  tooltip: Join us
+  order: 7
+  tooltip: Join our team!
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Join us
