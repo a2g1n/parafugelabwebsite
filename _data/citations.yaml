@@ -1,174 +1,812 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
+  title: Single-step assembly of double guide plasmid (pCas9-Duo) for gene-editing
+    in Plasmodium v1
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Abhinay Ramaprasad
+  publisher: ZappyLab, Inc.
+  date: '2024-06-11'
+  link: https://doi.org/g8sgrb
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1101/2024.01.14.575607
+  title: A scaleable inducible knockout system for studying essential gene function
+    in the malaria parasite
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Abhinay Ramaprasad
+  - Michael J Blackman
   publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2024-01-15'
+  link: https://doi.org/g8sgrc
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1128/mbio.01718-23
+  title: A patatin-like phospholipase is important for mitochondrial function in malaria
+    parasites
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Emma Pietsch
+  - Abhinay Ramaprasad
+  - Sabrina Bielfeld
+  - Yvonne Wohlfarter
+  - Bohumil Maco
+  - "Korbinian Niederm\xFCller"
+  - Louisa Wilcke
+  - Joachim Kloehn
+  - Markus A. Keller
+  - Dominique Soldati-Favre
+  - Michael J. Blackman
+  - Tim-Wolf Gilberger
+  - Paul-Christian Burda
+  publisher: mBio
+  date: '2023-12-19'
+  link: https://doi.org/g8sgrd
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1128/mbio.01413-23
+  title: "Global analysis of putative phospholipases in\n            <i>Plasmodium\
+    \ falciparum</i>\n            reveals an essential role of the phosphoinositide-specific\
+    \ phospholipase C in parasite maturation"
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Paul-Christian Burda
+  - Abhinay Ramaprasad
+  - Sabrina Bielfeld
+  - Emma Pietsch
+  - Anna Woitalla
+  - "Christoph S\xF6hnchen"
+  - Mehar Nihal Singh
+  - Jan Strauss
+  - Aaron Sait
+  - Lucy M. Collinson
+  - Dominik Schwudke
+  - Michael J. Blackman
+  - Tim-Wolf Gilberger
+  publisher: mBio
+  date: '2023-07-25'
+  link: https://doi.org/g8sgrf
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: pmid:37352369
+  title: A malaria parasite phospholipase facilitates efficient asexual blood stage
+    egress.
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
+  - Abhinay Ramaprasad
+  - Paul-Christian Burda
+  - Konstantinos Koussis
+  - James A Thomas
+  - Emma Pietsch
+  - Enrica Calvani
+  - Steven A Howell
+  - James I MacRae
+  - Ambrosius P Snijders
+  - Tim-Wolf Gilberger
+  - Michael J Blackman
+  publisher: PLoS pathogens
+  date: '2023-06-23'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/37352369
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.82207
+  title: A choline-releasing glycerophosphodiesterase essential for phosphatidylcholine
+    biosynthesis and blood stage development in the malaria parasite
+  authors:
+  - Abhinay Ramaprasad
+  - Paul-Christian Burda
+  - Enrica Calvani
+  - Aaron J Sait
+  - Susana Alejandra Palma-Duran
+  - Chrislaine Withers-Martinez
+  - Fiona Hackett
+  - James Macrae
+  - Lucy Collinson
+  - Tim Wolf Gilberger
+  - Michael J Blackman
+  publisher: eLife
   date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  link: https://doi.org/j9bs
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: pmid:35401459
+  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Abhinav Kaushik
+  - Daniel P Roberts
+  - Abhinay Ramaprasad
+  - Sara Mfarrej
+  - Mridul Nair
+  - Dilip K Lakshman
+  - Arnab Pain
+  publisher: Frontiers in microbiology
+  date: '2022-03-25'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/35401459
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33902581
+  title: Estimating the effectiveness of routine asymptomatic PCR testing at different
+    frequencies for the detection of SARS-CoV-2 infections.
+  authors:
+  - Joel Hellewell
+  - Timothy W Russell
+  - Rupert Beale
+  - Gavin Kelly
+  - Catherine Houlihan
+  - Eleni Nastouli
+  - Adam J Kucharski
+  publisher: BMC medicine
+  date: '2021-04-27'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33902581
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:33279440
+  title: Clinical outcomes of COVID-19 in long-term care facilities for people with
+    epilepsy.
+  authors:
+  - Simona Balestrini
+  - Matthias J Koepp
+  - Sonia Gandhi
+  - Hannah M Rickman
+  - Gee Yen Shin
+  - Catherine F Houlihan
+  - Jonny Anders-Cannon
+  - Katri Silvennoinen
+  - Fenglai Xiao
+  - Sara Zagaglia
+  - Kirsty Hudgell
+  - Mariusz Ziomek
+  - Paul Haimes
+  - Adam Sampson
+  - Annie Parker
+  - J Helen Cross
+  - Rosemarie Pardington
+  - Eleni Nastouli
+  - Charles Swanton
+  - Josemir W Sander
+  - Sanjay M Sisodiya
+  publisher: 'Epilepsy & behavior : E&B'
+  date: '2020-11-05'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/33279440
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2020.09.07.286369
+  title: <i>Plasmodium vinckei</i> genomes provide insights into the pan-genome and
+    evolution of rodent malaria parasites
+  authors:
+  - Abhinay Ramaprasad
+  - Severina Klaus
+  - Olga Douvropoulou
+  - Richard Culleton
+  - Arnab Pain
   publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2020-09-07'
+  link: https://doi.org/g8sgrg
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: pmid:32555528
+  title: Scalable and robust SARS-CoV-2 testing in an academic center.
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Jim Aitken
+  - Karen Ambrose
+  - Sam Barrell
+  - Rupert Beale
+  - Ganka Bineva-Todd
+  - Dhruva Biswas
+  - Richard Byrne
+  - Simon Caidan
+  - Peter Cherepanov
+  - Laura Churchward
+  - Graham Clark
+  - Margaret Crawford
+  - Laura Cubitt
+  - Vicky Dearing
+  - Christopher Earl
+  - Amelia Edwards
+  - Chris Ekin
+  - Efthymios Fidanis
+  - Alessandra Gaiba
+  - Steve Gamblin
+  - Sonia Gandhi
+  - Jacki Goldman
+  - Robert Goldstone
+  - Paul R Grant
+  - Maria Greco
+  - Judith Heaney
+  - Steve Hindmarsh
+  - Catherine F Houlihan
+  - Michael Howell
+  - Michael Hubank
+  - Deborah Hughes
+  - Rachael Instrell
+  - Deborah Jackson
+  - Mariam Jamal-Hanjani
+  - Ming Jiang
+  - Mark Johnson
+  - Leigh Jones
+  - Nnennaya Kanu
+  - George Kassiotis
+  - Stuart Kirk
+  - Svend Kjaer
+  - Andrew Levett
+  - Lisa Levett
+  - Marcel Levi
+  - Wei-Ting Lu
+  - James I MacRae
+  - John Matthews
+  - Laura E McCoy
+  - Catherine Moore
+  - David Moore
+  - Eleni Nastouli
+  - Jerome Nicod
+  - Luke Nightingale
+  - Jessica Olsen
+  - Nicola O'Reilly
+  - Amar Pabari
+  - Venizelos Papayannopoulos
+  - Namita Patel
+  - Nigel Peat
+  - Marc Pollitt
+  - Peter Ratcliffe
+  - Caetano Reis e Sousa
+  - Annachiara Rosa
+  - Rachel Rosenthal
+  - Chloe Roustan
+  - Andrew Rowan
+  - Gee Yen Shin
+  - Daniel M Snell
+  - Ok-Ryul Song
+  - Moira J Spyer
+  - Amy Strange
+  - Charles Swanton
+  - James M A Turner
+  - Melanie Turner
+  - Andreas Wack
+  - Philip A Walker
+  - Sophia Ward
+  - Wai Keong Wong
+  - Joshua Wright
+  - Mary Wu
+  publisher: Nature biotechnology
+  date: '2020-08-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32555528
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:32653078
+  title: Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline
+    health-care workers.
+  authors:
+  - Catherine F Houlihan
+  - Nina Vora
+  - Thomas Byrne
+  - Dan Lewer
+  - Gavin Kelly
+  - Judith Heaney
+  - Sonia Gandhi
+  - Moira J Spyer
+  - Rupert Beale
+  - Peter Cherepanov
+  - David Moore
+  - Richard Gilson
+  - Steve Gamblin
+  - George Kassiotis
+  - Laura E McCoy
+  - Charles Swanton
+  - Andrew Hayward
+  - Eleni Nastouli
+  publisher: Lancet (London, England)
+  date: '2020-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/32653078
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cells9122590
+  title: MRE11 Is Crucial for Malaria Parasite Transmission and Its Absence Affects
+    Expression of Interconnected Networks of Key Genes Essential for Life
+  authors:
+  - David S. Guttery
+  - Abhinay Ramaprasad
+  - David J. P. Ferguson
+  - Mohammad Zeeshan
+  - Rajan Pandey
+  - Declan Brady
+  - Anthony A. Holder
+  - Arnab Pain
+  - Rita Tewari
+  publisher: Cells
+  date: '2020-12-03'
+  link: https://doi.org/g8sgrh
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-020-16593-y
+  title: Malaria parasites regulate intra-erythrocytic development duration via serpentine
+    receptor 10 to coordinate with host rhythms
+  authors:
+  - Amit K. Subudhi
+  - "Aidan J. O\u2019Donnell"
+  - Abhinay Ramaprasad
+  - Hussein M. Abkallo
+  - Abhinav Kaushik
+  - Hifzur R. Ansari
+  - Alyaa M. Abdel-Haleem
+  - Fathia Ben Rached
+  - Osamu Kaneko
+  - Richard Culleton
+  - Sarah E. Reece
+  - Arnab Pain
+  publisher: Nature Communications
+  date: '2020-06-02'
+  link: https://doi.org/gk46n4
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/350546
+  title: A fast and cost-effective microsampling protocol incorporating reduced animal
+    usage for time-series transcriptomics in rodent malaria parasites
+  authors:
+  - Abhinay Ramaprasad
+  - Amit Kumar Subudhi
+  - Richard Culleton
+  - Arnab Pain
+  publisher: Cold Spring Harbor Laboratory
+  date: '2018-06-20'
+  link: https://doi.org/gkxdqb
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-46398-z
+  title: Whole genome sequencing of amplified Plasmodium knowlesi DNA from unprocessed
+    blood reveals genetic exchange events between Malaysian Peninsular and Borneo
+    subpopulations
+  authors:
+  - Ernest Diez Benavente
+  - Ana Rita Gomes
+  - Jeremy Ryan De Silva
+  - Matthew Grigg
+  - Harriet Walker
+  - Bridget E. Barber
+  - Timothy William
+  - Tsin Wen Yeo
+  - Paola Florez de Sessions
+  - Abhinay Ramaprasad
+  - Amy Ibrahim
+  - James Charleston
+  - Martin L. Hibberd
+  - Arnab Pain
+  - Robert W. Moon
+  - Sarah Auburn
+  - Lau Yee Ling
+  - Nicholas M. Anstey
+  - Taane G. Clark
+  - Susana Campino
+  publisher: Scientific Reports
+  date: '2019-07-08'
+  link: https://doi.org/g8sgrj
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1006900
+  title: Timing of host feeding drives rhythms in parasite replication
+  authors:
+  - Kimberley F. Prior
+  - Daan R. van der Veen
+  - "Aidan J. O\u2019Donnell"
+  - Katherine Cumnock
+  - David Schneider
+  - Arnab Pain
+  - Amit Subudhi
+  - Abhinay Ramaprasad
+  - Samuel S. C. Rund
+  - Nicholas J. Savill
+  - Sarah E. Reece
+  publisher: PLOS Pathogens
+  date: '2018-02-26'
+  link: https://doi.org/gc3ssh
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12936-018-2487-y
+  title: Proteomic profiling of the plasma of Gambian children with cerebral malaria
+  authors:
+  - Ehab M. Moussa
+  - Honglei Huang
+  - "Marie L. Th\xE9z\xE9nas"
+  - Roman Fischer
+  - Abhinay Ramaprasad
+  - Fatou Sisay-Joof
+  - Muminatou Jallow
+  - Arnab Pain
+  - Dominic Kwiatkowski
+  - Benedikt M. Kessler
+  - Climent Casals-Pascual
+  publisher: Malaria Journal
+  date: '2018-09-24'
+  link: https://doi.org/gfb95f
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1006447
+  title: Rapid identification of genes controlling virulence and immunity in malaria
+    parasites
+  authors:
+  - Hussein M. Abkallo
+  - Axel Martinelli
+  - Megumi Inoue
+  - Abhinay Ramaprasad
+  - Phonepadith Xangsayarath
+  - Jesse Gitaka
+  - Jianxia Tang
+  - Kazuhide Yahata
+  - Augustin Zoungrana
+  - Hayato Mitaka
+  - Arita Acharjee
+  - Partha P. Datta
+  - Paul Hunt
+  - Richard Carter
+  - Osamu Kaneko
+  - Ville Mustonen
+  - Christopher J. R. Illingworth
+  - Arnab Pain
+  - Richard Culleton
+  publisher: PLOS Pathogens
+  date: '2017-07-12'
+  link: https://doi.org/gbnkfp
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:28225668
+  title: Emergence of Indigenous Artemisinin-Resistant Plasmodium falciparum in Africa.
+  authors:
+  - Feng Lu
+  - Richard Culleton
+  - Meihua Zhang
+  - Abhinay Ramaprasad
+  - Lorenz von Seidlein
+  - Huayun Zhou
+  - Guoding Zhu
+  - Jianxia Tang
+  - Yaobao Liu
+  - Weiming Wang
+  - Yuanyuan Cao
+  - Sui Xu
+  - Yaping Gu
+  - Julin Li
+  - Chao Zhang
+  - Qi Gao
+  - Didier Menard
+  - Arnab Pain
+  - Haitao Yang
+  - Qingfeng Zhang
+  - Jun Cao
+  publisher: The New England journal of medicine
+  date: '2017-02-22'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/28225668
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: handle:10754/626109
+  title: ''
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://repository.kaust.edu.sa/handle/10754/626109
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1522469113
+  title: "Normocyte-binding protein required for human erythrocyte invasion by the\
+    \ zoonotic malaria parasite\n            <i>Plasmodium knowlesi</i>"
+  authors:
+  - Robert W. Moon
+  - Hazem Sharaf
+  - Claire H. Hastings
+  - Yung Shwen Ho
+  - Mridul B. Nair
+  - Zineb Rchiad
+  - Ellen Knuepfer
+  - Abhinay Ramaprasad
+  - Franziska Mohring
+  - Amirah Amir
+  - Noor A. Yusuf
+  - Joanna Hall
+  - Neil Almond
+  - Yee Ling Lau
+  - Arnab Pain
+  - Michael J. Blackman
+  - Anthony A. Holder
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2016-06-14'
+  link: https://doi.org/f8tnqw
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijpara.2016.05.009
+  title: Genome-scale comparison of expanded gene families in Plasmodium ovale wallikeri
+    and Plasmodium ovale curtisi with Plasmodium malariae and with other Plasmodium
+    species
+  authors:
+  - Hifzur Rahman Ansari
+  - Thomas J. Templeton
+  - Amit Kumar Subudhi
+  - Abhinay Ramaprasad
+  - Jianxia Tang
+  - Feng Lu
+  - Raeece Naeem
+  - Yasmeen Hashish
+  - Mary C. Oguike
+  - Ernest Diez Benavente
+  - Taane G. Clark
+  - Colin J. Sutherland
+  - John W. Barnwell
+  - Richard Culleton
+  - Jun Cao
+  - Arnab Pain
+  publisher: International Journal for Parasitology
+  date: '2016-10-01'
+  link: https://doi.org/f9m4cj
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.ppat.1005273
+  title: Plasmodium P-Type Cyclin CYC3 Modulates Endomitotic Growth during Oocyst
+    Development in Mosquitoes
+  authors:
+  - Magali Roques
+  - Richard J. Wall
+  - Alexander P. Douglass
+  - Abhinay Ramaprasad
+  - David J. P. Ferguson
+  - Mbinda L. Kaindama
+  - Lorenzo Brusini
+  - Nimitray Joshi
+  - Zineb Rchiad
+  - Declan Brady
+  - David S. Guttery
+  - Sally P. Wheatley
+  - Hiroyuki Yamano
+  - Anthony A. Holder
+  - Arnab Pain
+  - Bill Wickstead
+  - Rita Tewari
+  publisher: PLOS Pathogens
+  date: '2015-11-13'
+  link: https://doi.org/f77tdh
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.7554/eLife.06974
+  title: Chromerid genomes reveal the evolutionary path from photosynthetic algae
+    to obligate intracellular parasites
+  authors:
+  - Yong H Woo
+  - Hifzur Ansari
+  - Thomas D Otto
+  - Christen M Klinger
+  - Martin Kolisko
+  - "Jan Mich\xE1lek"
+  - Alka Saxena
+  - Dhanasekaran Shanmugam
+  - Annageldi Tayyrov
+  - Alaguraj Veluchamy
+  - Shahjahan Ali
+  - Axel Bernal
+  - Javier del Campo
+  - "Jarom\xEDr Cihl\xE1\u0159"
+  - Pavel Flegontov
+  - Sebastian G Gornik
+  - "Eva Hajdu\u0161kov\xE1"
+  - "Ale\u0161 Hor\xE1k"
+  - "Jan Janou\u0161kovec"
+  - Nicholas J Katris
+  - Fred D Mast
+  - Diego Miranda-Saavedra
+  - Tobias Mourier
+  - Raeece Naeem
+  - Mridul Nair
+  - Aswini K Panigrahi
+  - Neil D Rawlings
+  - Eriko Padron-Regalado
+  - Abhinay Ramaprasad
+  - Nadira Samad
+  - "Ale\u0161 Tom\u010Dala"
+  - Jon Wilkes
+  - Daniel E Neafsey
+  - Christian Doerig
+  - Chris Bowler
+  - Patrick J Keeling
+  - David S Roos
+  - Joel B Dacks
+  - Thomas J Templeton
+  - Ross F Waller
+  - "Julius Luke\u0161"
+  - "Miroslav Oborn\xEDk"
+  - Arnab Pain
+  publisher: eLife
+  date: '2015-07-15'
+  link: https://doi.org/f7v7jw
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0124473
+  title: Comprehensive Evaluation of Toxoplasma gondii VEG and Neospora caninum LIV
+    Genomes with Tachyzoite Stage Transcriptome and Proteome Defines Novel Transcript
+    Features
+  authors:
+  - Abhinay Ramaprasad
+  - Tobias Mourier
+  - Raeece Naeem
+  - Tareq B. Malas
+  - Ehab Moussa
+  - Aswini Panigrahi
+  - Sarah J. Vermont
+  - Thomas D. Otto
+  - Jonathan Wastling
+  - Arnab Pain
+  publisher: PLOS ONE
+  date: '2015-04-13'
+  link: https://doi.org/g8sgrk
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.1423400112
+  title: Endosymbiosis undone by stepwise elimination of the plastid in a parasitic
+    dinoflagellate
+  authors:
+  - Sebastian G. Gornik
+  - ' Febrimarsa'
+  - Andrew M. Cassin
+  - James I. MacRae
+  - Abhinay Ramaprasad
+  - Zineb Rchiad
+  - Malcolm J. McConville
+  - Antony Bacic
+  - Geoffrey I. McFadden
+  - Arnab Pain
+  - Ross F. Waller
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2015-04-20'
+  link: https://doi.org/g8sgrm
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.chom.2014.05.020
+  title: Genome-wide Functional Analysis of Plasmodium Protein Phosphatases Reveals
+    Key Regulators of Parasite Development and Differentiation
+  authors:
+  - "David\_S. Guttery"
+  - Benoit Poulin
+  - Abhinay Ramaprasad
+  - "Richard\_J. Wall"
+  - "David\_J.P. Ferguson"
+  - Declan Brady
+  - Eva-Maria Patzewitz
+  - Sarah Whipple
+  - Ursula Straschil
+  - "Megan\_H. Wright"
+  - "Alyaa\_M.A.H. Mohamed"
+  - Anand Radhakrishnan
+  - "Stefan\_T. Arold"
+  - "Edward\_W. Tate"
+  - "Anthony\_A. Holder"
+  - Bill Wickstead
+  - Arnab Pain
+  - Rita Tewari
+  publisher: Cell Host &amp; Microbe
+  date: '2014-07-01'
+  link: https://doi.org/f6fzmt
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0088408
+  title: Interleukin-10 Regulates Hepcidin in Plasmodium falciparum Malaria
+  authors:
+  - Honglei Huang
+  - Abigail A. Lamikanra
+  - Matthew S. Alkaitis
+  - "Marie L. Th\xE9z\xE9nas"
+  - Abhinay Ramaprasad
+  - Ehab Moussa
+  - David J. Roberts
+  - Climent Casals-Pascual
+  publisher: PLoS ONE
+  date: '2014-02-10'
+  link: https://doi.org/f5w5zf
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/nar/gku322
+  title: The evolutionary dynamics of variant antigen genes in Babesia reveal a history
+    of genomic innovation underlying host-parasite interaction
+  authors:
+  - A. P. Jackson
+  - T. D. Otto
+  - A. Darby
+  - A. Ramaprasad
+  - D. Xia
+  - I. E. Echaide
+  - M. Farber
+  - S. Gahlot
+  - J. Gamble
+  - D. Gupta
+  - Y. Gupta
+  - L. Jackson
+  - L. Malandrin
+  - T. B. Malas
+  - E. Moussa
+  - M. Nair
+  - A. J. Reid
+  - M. Sanders
+  - J. Sharma
+  - A. Tracey
+  - M. A. Quail
+  - W. Weir
+  - J. M. Wastling
+  - N. Hall
+  - P. Willadsen
+  - K. Lingelbach
+  - B. Shiels
+  - A. Tait
+  - M. Berriman
+  - D. R. Allred
+  - A. Pain
+  publisher: Nucleic Acids Research
+  date: '2014-05-05'
+  link: https://doi.org/f584sn
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/pr300858g
+  title: 'PfHPRT: A New Biomarker Candidate of Acute <i>Plasmodium falciparum</i>
+    Infection'
+  authors:
+  - "Marie L. Th\xE9z\xE9nas"
+  - Honglei Huang
+  - Madi Njie
+  - Abhinay Ramaprasad
+  - Davis C. Nwakanma
+  - Roman Fischer
+  - Katalin Digleria
+  - Michael Walther
+  - David J. Conway
+  - Benedikt M. Kessler
+  - Climent Casals-Pascual
+  publisher: Journal of Proteome Research
+  date: '2013-02-12'
+  link: https://doi.org/f4p66d
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ygeno.2011.11.006
+  title: Defining the protein interaction network of human malaria parasite Plasmodium
+    falciparum
+  authors:
+  - Abhinay Ramaprasad
+  - Arnab Pain
+  - Timothy Ravasi
+  publisher: Genomics
+  date: '2012-02-01'
+  link: https://doi.org/c8bv2k
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.25781/KAUST-1XW71
+  title: Studying Different Clinical Syndromes Of Paediatric Severe Malaria Using
+    Plasma Proteomics
+  authors:
+  - Abhinay Ramaprasad
+  publisher: KAUST Research Repository
+  date: '2012-01-01'
+  link: https://doi.org/g8sgrn
+  orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +822,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +838,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
