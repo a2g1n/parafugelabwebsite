@@ -93,7 +93,6 @@ nav {
 }
 
 nav > a {
-  display: block;
   padding: 5px;
 }
 
@@ -101,7 +100,7 @@ nav > a:hover {
   color: var(--primary);
 }
 
-@media (max-width: 700px) {
+@media (max-width: 900px) {
   header:not([data-big]) {
     justify-content: flex-end;
   }
