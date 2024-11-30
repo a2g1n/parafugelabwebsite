@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: ParaFuGe Lab
 subtitle: Parasite Functional Genetics Laboratory
-description: An engaging 1-3 sentence description of your lab.
+description: We are a team of researchers interested in understanding how malaria parasites live and multiply within red blood cells. Our research focuses on identifying the critical functions of genes that these parasites rely on to survive in the bloodstream. We disrupt specific genes and closely study how this affects the parasite, and we do this at scale to speed up discoveries. These fascinating explorations take place at the School of Infection and Immunity, University of Glasgow.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
