@@ -2,7 +2,7 @@
 ---
 title: Philosophy
 nav:
-  order: 4
+  order: 5
   tooltip: Lab philosophy
 ---
 
