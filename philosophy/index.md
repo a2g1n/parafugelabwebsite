@@ -3,7 +3,7 @@
 title: Philosophy
 nav:
   order: 5
-  tooltip: Lab philosophy
+  tooltip: Our approach to science
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Lab philosophy
