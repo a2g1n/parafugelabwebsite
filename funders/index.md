@@ -3,8 +3,8 @@
 ---
 title: Funders
 nav:
-  order: 7
-  tooltip: Funders
+  order: 8
+  tooltip: Who funds us
 ---
 
 # {% include icon.html icon="fa-solid fa-users" %}Funders
