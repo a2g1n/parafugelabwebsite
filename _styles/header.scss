@@ -8,7 +8,7 @@ $collapse: 700px;
 $sticky: true;
 
 header {
-  display: block;
+  display: flex;
   justify-content: space-between;
   align-items: center;
   flex-wrap: wrap;
@@ -105,6 +105,7 @@ nav {
 }
 
 nav > a {
+  display: block;
   padding: 5px;
 }
 
