@@ -1,5 +1,3 @@
-
-
 ---
 title: Funders
 nav:
