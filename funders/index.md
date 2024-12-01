@@ -5,7 +5,7 @@ nav:
   tooltip: Who funds us
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Funders
+# {% include icon.html icon="fa-solid fa-users" %} Funders
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
