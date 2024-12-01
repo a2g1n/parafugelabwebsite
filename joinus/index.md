@@ -1,4 +1,3 @@
-
 ---
 title: Join us
 nav:
