@@ -1,4 +1,3 @@
-
 ---
 title: Philosophy
 nav:
@@ -6,7 +5,7 @@ nav:
   tooltip: Our approach to science
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %}Lab philosophy
+# {% include icon.html icon="fa-solid fa-users" %}Philosophy
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
 incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
