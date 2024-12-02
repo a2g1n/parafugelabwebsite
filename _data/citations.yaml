@@ -128,6 +128,21 @@
   orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
+- id: doi:10.1186/s12915-021-00995-5
+  title: Plasmodium vinckei genomes provide insights into the pan-genome and evolution
+    of rodent malaria parasites
+  authors:
+  - Abhinay Ramaprasad
+  - Severina Klaus
+  - Olga Douvropoulou
+  - Richard Culleton
+  - Arnab Pain
+  publisher: BMC Biology
+  date: '2021-04-23'
+  link: https://doi.org/g8sqwj
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
 - id: pmid:33902581
   title: Estimating the effectiveness of routine asymptomatic PCR testing at different
     frequencies for the detection of SARS-CoV-2 infections.
