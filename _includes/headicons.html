@@ -2,9 +2,10 @@
   {%- capture inline -%}
     {%- include {{ include.icon }} -%}
   {%- endcapture -%}
-  <span class="icon">
+  <span class="icon" style="color: #eaabb0;">
     {{- inline | strip_newlines -}}
   </span>
 {%- elsif include.icon and include.icon != "" -%}
-  <i class="icon {{ include.icon }}"></i>
+  <i class="icon {{ include.icon }}" style="color: #eaabb0;"></i>
 {%- endif -%}
+
