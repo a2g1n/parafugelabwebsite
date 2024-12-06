@@ -9,7 +9,7 @@ We are a team of researchers interested in understanding how malaria parasites l
 
 {% capture text %}
 
-Our current focus is on understanding the parasite’s asexual replication within red blood cells.
+Our current quest is to understand how malaria parasites reproduce asexually within red blood cells. The parasite undergoes an extraordinary form of 
 
 {%
   include button.html
