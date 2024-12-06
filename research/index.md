@@ -5,7 +5,7 @@ nav:
   tooltip: What we do
 ---
 
-# {% include icon.html icon="fa-solid fa-flask-vial" %}Research
+# {% include headicons.html icon="fa-solid fa-flask-vial" %}Research
 
 Our current focus is on understanding the parasite’s asexual replication within red blood cells. During this stage, the parasite undergoes an extraordinary form of cell division called schizogony, where the parasite’s nucleus divides multiple times before the cell itself undergoes a form of cytokinesis, producing up to 24 daughter parasites. Many features of this process remain a mystery, including how the parasite initiates this phase and regulates its timing. We want to understand how such key decisions are taken and identify the molecules and mechanisms that are involved.
 
