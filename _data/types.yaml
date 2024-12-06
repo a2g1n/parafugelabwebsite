@@ -70,6 +70,10 @@ search:
   text: Search
   tooltip: Search
 
+research:
+  icon: fa-solid fa-flask-vial
+  text: Research
+  tooltip: Research
 # social media
 
 orcid:
