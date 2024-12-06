@@ -9,7 +9,7 @@ We are a team of researchers interested in understanding how malaria parasites l
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our current focus is on understanding the parasite’s asexual replication within red blood cells.
 
 {%
   include button.html
