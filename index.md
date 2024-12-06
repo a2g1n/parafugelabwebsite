@@ -3,7 +3,7 @@
 
 # Decoding malaria parasite biology | several genes at a time
 
-We are a team of researchers interested in understanding how malaria parasites live and multiply within red blood cells. Our research focuses on identifying the critical functions of genes that these parasites rely on to survive in the bloodstream. We disrupt specific genes and closely study how this affects the parasite, and we do this at scale to speed up discoveries. These fascinating explorations take place at the [School of Infection and Immunity, University of Glasgow](https://www.gla.ac.uk/schools/infectionimmunity/).
+We are a team of researchers interested in understanding how malaria parasites live and multiply within red blood cells. Our research focuses on identifying the critical functions of genes that these parasites rely on to survive in the bloodstream. We disrupt specific genes and closely study how this affects the parasite, and we do this at scale to speed up discoveries. These exciting explorations take place at the [School of Infection and Immunity, University of Glasgow](https://www.gla.ac.uk/schools/infectionimmunity/).
 
 {% include section.html %}
 
