@@ -10,7 +10,7 @@ nav:
 We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites and disrupting genes, and are always looking for better and more efficient ways to get these done. 
 The mutants we generate often lead us down intriguing and unexpected paths of enquiry, pushing us to continuously learn, collaborate and imbibe new techniques and technologies.
 
-We foster a lab environment that is positive, inclusive and supportive, where diversity in skills and perspectives are celebrated and encouraged. Learn more about our values at <a href="../philosophy/index.html">Our approach to science</a>.
+We foster a lab environment that is positive, inclusive and supportive, where diversity in skills and perspectives are celebrated and encouraged. Learn more about our values - <a href="../philosophy/index.html">Our approach to science</a>.
 
 <script>
   function calculateLabAge(startDate) {
