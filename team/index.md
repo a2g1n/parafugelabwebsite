@@ -1,5 +1,5 @@
 ---
-title: Team
+title: Team | Join us
 nav:
   order: 4
   tooltip: About our team
@@ -8,6 +8,10 @@ nav:
 # {% include headicons.html icon="fa-solid fa-users" %}Team | Join us
 
 We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
+
+In our lab, we use advanced molecular genetic tools, such as CRISPR-Cas9 and DiCre, to precisely edit or knockout parasite genes and routinely identify interesting candidates that could be investigated further to uncover their essential roles. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+
+We also cater standard 
 
 <script>
   function calculateLabAge(startDate) {
