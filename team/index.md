@@ -5,7 +5,7 @@ nav:
   tooltip: About our team
 ---
 
-# {% include headicons.html icon="fa-solid fa-users" %}Team
+# {% include headicons.html icon="fa-solid fa-users" %}Team | Join us
 
 We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
 
