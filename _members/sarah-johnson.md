@@ -1,11 +1,10 @@
 ---
-name: Sarah Johnson
+name: Anagha Rajesh Salvi
 image: images/photo.jpg
-description: Lead Programmer
-role: programmer
+description: Technician
+role: technician
 links:
-  email: sarah.johnson@gmail.com
-  twitter: sarahjohnson
+  email: anagharajesh.salvi@glasgow.ac.uk
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
