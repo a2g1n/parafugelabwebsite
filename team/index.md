@@ -34,7 +34,7 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 
 We have open positions!
 
-In our lab, we use  and routinely identify interesting candidates that could be investigated further to uncover their essential roles. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+At the lab, we routinely identify interesting essential genes that could be investigated further to uncover their important roles in the parasite. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
 
 {% include section.html %}
 
