@@ -32,7 +32,7 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 
 {% capture text %}
 
-We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, datasets and data analysis openly...
+We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, datasets and data analysis...
 
 {%
   include button.html
@@ -66,6 +66,10 @@ We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months o
     const diffInMonths = (current.getFullYear() - start.getFullYear()) * 12 + current.getMonth() - start.getMonth();
     return diffInMonths;
   }
+
+  document.getElementById("lab-age").innerText = calculateLabAge("2024-09-02"); // Replace with your lab's start date
+</script>
+
 {%
   include button.html
   link="team"
@@ -81,6 +85,6 @@ We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months o
   include feature.html
   image="images/photo.jpg"
   link="team"
-  title="Our Team"
+  title="Our Team | Join us"
   text=text
 %}
