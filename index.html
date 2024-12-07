@@ -709,10 +709,30 @@
       <p class="feature-title">Our Team</p>
     
     
-<p>We are a fledgling malaria lab situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!</p>
+<p>We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!</p>
 
-<div class="button-wrapper">
-    <a class="button" href="/parafugelabwebsite/team" data-style="bare" data-flip="" aria-label="fa-solid fa-arrow-right">
+<script>
+  function calculateLabAge(startDate) {
+    const start = new Date(startDate);
+    const current = new Date();
+    const diffInMonths = (current.getFullYear() - start.getFullYear()) * 12 + current.getMonth() - start.getMonth();
+    return diffInMonths;
+  }
+
+
+
+
+  <div class="button-wrapper">
+    <a
+      class="button"
+      href="/parafugelabwebsite/team"
+      
+      data-style="bare"
+      
+        data-flip
+      
+      aria-label="fa-solid fa-arrow-right"
+    >
       <i class="icon fa-solid fa-arrow-right"></i>
       
         <span>Meet our team</span>
@@ -720,6 +740,9 @@
     </a>
   </div>
 
+
+
+</script>
 
   </div>
 </div>
