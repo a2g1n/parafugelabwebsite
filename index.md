@@ -32,7 +32,7 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 
 {% capture text %}
 
-We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, data analysis and datasets openly...
+We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, datasets and data analysis openly...
 
 {%
   include button.html
@@ -57,8 +57,7 @@ We believe that the process is as valuable as the outcome. We are committed to m
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
+We are a fledgling malaria lab situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
 {%
   include button.html
   link="team"
