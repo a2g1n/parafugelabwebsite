@@ -5,10 +5,9 @@ nav:
   tooltip: Protocols, datasets and code
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Resources
+# {% include headericons.html icon="fa-solid fa-boxopen" %}Resources
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, data analysis and datasets openly accessible for anyone to use, reproduce and build upon.
 
 {% include tags.html tags="protocols, dataset, code" %}
 
