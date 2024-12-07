@@ -1,15 +1,15 @@
 ---
-title: Team | Join us
+title: Team
 nav:
   order: 4
   tooltip: About our team
 ---
 
-# {% include headicons.html icon="fa-solid fa-users" %}Team | Join us
+# {% include headicons.html icon="fa-solid fa-users" %}Team
 
-We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
-
-In our lab, we use advanced molecular genetic tools, such as CRISPR-Cas9 and DiCre, to precisely edit or knockout parasite genes and routinely identify interesting candidates that could be investigated further to uncover their essential roles. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites, and disrupting genes and are always looking for better and more efficient ways to get these done. 
+The mutants we generate often lead us down intriguing and unexpected paths of enquiry, pushing us to continuously learn, collaborate and imbibe new techniques and technologies. Omics approaches play a central role in our studies.
+We foster a positive and inclusive lab environment, where diversity in skills and perspectives is celebrated and encouraged.
 
 <script>
   function calculateLabAge(startDate) {
@@ -29,11 +29,15 @@ In our lab, we use advanced molecular genetic tools, such as CRISPR-Cas9 and DiC
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+## Join us
+
+We have open positions!
+
+In our lab, we use  and routinely identify interesting candidates that could be investigated further to uncover their essential roles. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
 
 {% include section.html %}
+
+
 
 {% capture content %}
 
