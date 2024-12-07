@@ -7,9 +7,18 @@ nav:
 
 # {% include headicons.html icon="fa-solid fa-users" %}Team
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
+
+<script>
+  function calculateLabAge(startDate) {
+    const start = new Date(startDate);
+    const current = new Date();
+    const diffInMonths = (current.getFullYear() - start.getFullYear()) * 12 + current.getMonth() - start.getMonth();
+    return diffInMonths;
+  }
+
+  document.getElementById("lab-age").innerText = calculateLabAge("2024-09-02"); // Replace with your lab's start date
+</script>
 
 {% include section.html %}
 
