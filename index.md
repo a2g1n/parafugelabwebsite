@@ -57,7 +57,15 @@ We believe that the process is as valuable as the outcome. We are committed to m
 
 {% capture text %}
 
-We are a fledgling malaria lab situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
+We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We are always eager to welcome motivated scientists to join us!
+
+<script>
+  function calculateLabAge(startDate) {
+    const start = new Date(startDate);
+    const current = new Date();
+    const diffInMonths = (current.getFullYear() - start.getFullYear()) * 12 + current.getMonth() - start.getMonth();
+    return diffInMonths;
+  }
 {%
   include button.html
   link="team"
