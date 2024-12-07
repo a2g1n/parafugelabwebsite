@@ -1,7 +1,7 @@
 ---
 title: Funders
 nav:
-  order: 8
+  order: 7
   tooltip: Who funds us
 ---
 
