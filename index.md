@@ -32,7 +32,7 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 
 {% capture text %}
 
-We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, data analysis and datasets..
+We believe that the process is as valuable as the outcome. We are committed to making our lab protocols, data analysis and datasets openly...
 
 {%
   include button.html
