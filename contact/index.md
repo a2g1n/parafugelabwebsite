@@ -26,7 +26,7 @@ We are part of the School of Infection and Immunity and the Center for Parasitol
 {% capture content %}
 
 {% include figure.html image="images/CenterforParasitology.png" link="" %}
-{% include figure.html image="images/UoG_colour.png" link="" %}
+{% include figure.html image="images/UoG_colour.png" link="https://www.gla.ac.uk/schools/infectionimmunity/" %}
 
 {% endcapture %}
 
