@@ -7,22 +7,15 @@ nav:
 
 # {% include headicons.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We are part of the School of Infection and Immunity, University of Glasgow and the Center for Parasitology. You can find us in the 6th floor of the Sir Graeme Davies Building.
 
 {%
   include button.html
   type="email"
-  text="abhinay.ramaprasad@glasgow.ac.uk"
+  text="abhinay.ramaprasad<br>@glasgow.ac.uk"
   link="abhinay.ramaprasad@glasgow.ac.uk"
 %}
-{%
-  include button.html
-  type="phone"
-  text="+44 78531 41356"
-  link="+447853141356"
-%}
+
 {%
   include button.html
   type="address"
@@ -53,25 +46,3 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
 {% endcapture %}
 
 {% include cols.html col1=col1 col2=col2 %}
-
-{% include section.html dark=true %}
-
-{% capture col1 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col2 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% capture col3 %}
-Lorem ipsum dolor sit amet  
-consectetur adipiscing elit  
-sed do eiusmod tempor
-{% endcapture %}
-
-{% include cols.html col1=col1 col2=col2 col3=col3 %}
