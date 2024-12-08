@@ -17,7 +17,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px;
 }
 
 @media (max-width: 750px) {
@@ -44,7 +43,7 @@
   height: 100%;
   max-width: 100%;
   max-height: 100%;
-  padding: 10px;
+  margin: 10px;
 }
 
 .grid > :where(h1, h2, h3, h4, h5, h6) {
