@@ -27,7 +27,6 @@
 }
 .grid[data-style=square] {
   justify-items: center;
-  align-items: center;
 }
 .grid[data-style=square] > * {
   aspect-ratio: 1/1;
