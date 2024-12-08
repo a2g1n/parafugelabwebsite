@@ -23,3 +23,11 @@ We are part of the School of Infection and Immunity and the Center for Parasitol
   link="https://maps.app.goo.gl/WLvzMyJa332NamAG8"
 %}
 
+{% capture content %}
+
+{% include figure.html image="images/CenterforParasitology.png" link="" %}
+{% include figure.html image="images/UoG_colour.png" link="" %}
+
+{% endcapture %}
+
+{% include grid.html style="square" content=content %}
