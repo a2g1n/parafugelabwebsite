@@ -30,4 +30,7 @@ We are part of the School of Infection and Immunity and the Center for Parasitol
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content custom_style="max-width: 400px; margin: 0 auto;"%}
+<div style="width: 80%; max-width: 500px; margin: 0 auto;">
+  {% include grid.html style="square" content=content %}
+</div>
+
