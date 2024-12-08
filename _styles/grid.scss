@@ -35,7 +35,8 @@ $one: 500px;
 }
 
 .grid[data-style="square"] {
-  align-items: center;
+  justify-items: center; // Centers items horizontally within the grid
+  align-items: center;   // Centers items vertically within the grid
 
   & > * {
     aspect-ratio: 1 / 1;
