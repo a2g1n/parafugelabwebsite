@@ -23,7 +23,6 @@ $one: 500px;
   display: flex;          // Ensure grid items can flexibly contain images
   justify-content: center; // Center content horizontally
   align-items: center;     // Center content vertically
-  padding: 10px;       // Add padding to create space inside the container
 }
 
 @media (max-width: $two) {
@@ -53,7 +52,7 @@ $one: 500px;
     height: 100%;            // Ensure the image takes full height of its container
     max-width: 100%;         // Prevent the image from exceeding the container width
     max-height: 100%;        // Prevent the image from exceeding the container height
-    padding: 10px;       // Add padding to create space inside the container
+    margin: 10px;              // Add space around the image
   }
 }
 
