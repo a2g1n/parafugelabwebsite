@@ -27,7 +27,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   text="B625, Sir Graeme Davies Building,<br>120, University Place<br>Glasgow G12 8TA" 
-  link="https://maps.app.goo.gl/tFZayEEmoZoUFYbD9"
+  link="https://maps.app.goo.gl/WLvzMyJa332NamAG8"
 %}
 
 {% include section.html %}
