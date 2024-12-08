@@ -7,7 +7,7 @@ nav:
 
 # {% include headicons.html icon="fa-regular fa-envelope" %}Contact
 
-We are part of the School of Infection and Immunity and the Center for Parasitology at the University of Glasgow. You can find us in the 6th floor of the Sir Graeme Davies Building.
+We are part of the School of Infection and Immunity and the Center for Parasitology at the University of Glasgow. You can find us on the 6th floor of the Sir Graeme Davies Building.
 
 {%
   include button.html
