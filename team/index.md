@@ -2,7 +2,7 @@
 title: Team
 nav:
   order: 4
-  tooltip: About our team
+  tooltip: About our team, joining us and our funders
 ---
 
 # {% include headicons.html icon="fa-solid fa-users" %}Team
@@ -42,8 +42,8 @@ At the lab, we routinely identify interesting essential genes that could be inve
 
 {% capture content %}
 
-{% include figure.html image="images/ukri-mrc-square-logo.png" link="" caption="MRC Career Development Award (2024-29)" %}
-{% include figure.html image="images/UoG_colour.png" link="" caption="Lord Kevin / Adam Smith Fellowship (2024-29)" %}
+{% include figure.html image="images/ukri-mrc-square-logo.png" link="https://www.ukri.org/opportunity/career-development-award/" caption="MRC Career Development Award (2024-29)" %}
+{% include figure.html image="images/UoG_colour.png" link="https://www.gla.ac.uk/research/lkas/lkasfellowships/" caption="Lord Kevin / Adam Smith Fellowship (2024-29)" %}
 
 {% endcapture %}
 
