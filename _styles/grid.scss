@@ -23,6 +23,7 @@ $one: 500px;
   display: flex;          // Ensure grid items can flexibly contain images
   justify-content: center; // Center content horizontally
   align-items: center;     // Center content vertically
+  padding: 10px;          // Add padding to create space inside the container
 }
 
 @media (max-width: $two) {
