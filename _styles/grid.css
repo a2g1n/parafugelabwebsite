@@ -8,6 +8,12 @@
   margin: 40px 0;
 }
 
+/* When there are exactly 2 items, center them */
+.grid:has(> *:nth-child(2)):not(:has(> *:nth-child(3))) {
+  grid-template-columns: repeat(2, 1fr); /* Change to 2 columns */
+  justify-content: center;
+}
+
 .grid > * {
   min-width: 0;
   min-height: 0;
