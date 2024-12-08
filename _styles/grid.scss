@@ -43,7 +43,8 @@ $one: 500px;
 
   & img {
     aspect-ratio: 1 / 1;
-    object-fit: cover;
+    object-fit: contain; // Fit the image within the box, maintaining aspect ratio
+    object-position: center; // Center the image within the box
     max-width: unset;
     max-height: unset;
   }
