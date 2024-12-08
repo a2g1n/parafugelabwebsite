@@ -47,4 +47,4 @@ At the lab, we routinely identify interesting essential genes that could be inve
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+// {% include grid.html style="square" content=content %}
