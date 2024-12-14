@@ -73,7 +73,7 @@ We are a fresh and dynamic malaria lab situated within Glasgow’s vibrant paras
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/IMG_20241112_191333.jpg"
   link="team"
   title="Our Team"
   text=text
