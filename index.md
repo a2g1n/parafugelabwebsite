@@ -24,7 +24,7 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Research.svg"
   link="research"
   title="Our Research"
   text=text
