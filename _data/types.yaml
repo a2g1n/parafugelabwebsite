@@ -233,3 +233,8 @@ package:
   icon: fa-solid fa-box
   text: Package
   tooltip: Package
+
+plasmid:
+  icon: fa-solid fa-dna
+  text: Plasmid maps
+  tooltip: Plasmid maps
