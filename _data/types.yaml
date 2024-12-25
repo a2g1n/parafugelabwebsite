@@ -197,6 +197,11 @@ manubot:
   text: Manubot
   tooltip: Manubot
 
+pdf:
+  icon: fa-solid fa-file-pdf
+  text: Download PDF
+  tooltip: Download PDF
+
 # software
 
 docs:
