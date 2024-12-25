@@ -149,8 +149,25 @@
   link: https://doi.org/j9bs
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
+  description: This paper describes the functions of perforin-like proteins and a
+    lecithin:cholesterol acyltransferase (PF3D7_0629300) in *P. falciparum*.
+  image: https://iiif.elifesciences.org/digests/82207%2Fdigest-82207.jpg/full/617,/0/default.webp
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://elifesciences.org/download/aHR0cHM6Ly9jZG4uZWxpZmVzY2llbmNlcy5vcmcvYXJ0aWNsZXMvODIyMDcvZWxpZmUtODIyMDctdjIucGRmP2Nhbm9uaWNhbFVyaT1odHRwczovL2VsaWZlc2NpZW5jZXMub3JnL2FydGljbGVzLzgyMjA3/elife-82207-v2.pdf?_hash=GenIKuhta987ISgXDYQ2xM4vvNliWQengKFO7%2BMvDeg%3D
+  - type: source
+    text: Analysis
+    link: https://github.com/a2g1n/GDPDxcute
+  - type: docs
+    text: RNotebook
+    link: https://abbhinay.shinyapps.io/GDPD/
+  tags:
+  - DiCre
+  - glycerophosphodiesterase
 - id: pmid:35401459
   title: Pangenome Analysis of the Soilborne Fungal Phytopathogen
   authors:
