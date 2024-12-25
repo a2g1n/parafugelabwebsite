@@ -15,4 +15,4 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include section.html %}
 
-{% include list.html component="card" data="citation" filter=" type== 'protocols'" style="small" %}
+{% include list.html component="card" data="citations" filter=" type== 'protocols'" style="small" %}
