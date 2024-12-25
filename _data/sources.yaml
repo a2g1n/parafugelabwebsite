@@ -21,3 +21,25 @@
 
 - id: doi:10.7554/eLife.32822
   image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+
+- id: doi:10.1101/2024.01.14.575607
+  type: preprint
+  description: 
+  image: https://www.biorxiv.org/content/biorxiv/early/2024/01/15/2024.01.14.575607/F1.medium.gif
+  buttons:
+    - type: pdf
+      text: Full article
+      link: https://www.biorxiv.org/content/10.1101/2024.01.14.575607v1.full.pdf
+    - type: source
+      text: Analysis
+      link: https://zenodo.org/records/13839817
+    - type: data
+      text: Raw data
+      link: https://zenodo.org/records/13839540
+    - type: plasmid
+      text: Plasmid maps
+      link: https://zenodo.org/records/10547132
+  tags:
+    - SHIFTiKO
+    - DiCre
+    - method
