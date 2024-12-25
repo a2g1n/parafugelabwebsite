@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 6
+  order: 5
   tooltip: Mentions, moments and musings
 ---
 
