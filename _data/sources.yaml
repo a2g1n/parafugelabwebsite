@@ -1,5 +1,6 @@
 - id: doi:10.1101/2024.01.14.575607
   type: preprint
+  publisher: bioRxiv
   description: 
   image: https://www.biorxiv.org/content/biorxiv/early/2024/01/15/2024.01.14.575607/F1.medium.gif
   buttons:
