@@ -1,7 +1,7 @@
 ---
 title: Philosophy
 nav:
-  order: 5
+  order: 4
   tooltip: Our approach to science
 ---
 
