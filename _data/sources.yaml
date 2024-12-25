@@ -99,7 +99,7 @@
 
 - id: doi:10.7554/eLife.82207
   type: paper
-  description: This paper describes the functions of perforin-like proteins and a lecithin:cholesterol acyltransferase (PF3D7_0629300) in *P. falciparum*.
+  description: This paper describes the function of a phosphodiester glycerophosphodiesterase (PF3D7_1406300) in *P. falciparum*.
   image: https://iiif.elifesciences.org/digests/82207%2Fdigest-82207.jpg/full/617,/0/default.webp
   buttons:
     - type: pdf
