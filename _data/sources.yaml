@@ -5,7 +5,7 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2024/01/15/2024.01.14.575607/F1.medium.gif
   buttons:
     - type: pdf
-      text: Full article
+      text: Preprint
       link: https://www.biorxiv.org/content/10.1101/2024.01.14.575607v1.full.pdf
     - type: source
       text: Analysis
