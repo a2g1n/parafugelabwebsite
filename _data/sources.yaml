@@ -29,7 +29,6 @@
       link: https://zenodo.org/records/10547132
   tags:
     - SHIFTiKO
-    - DiCre
     - method
     - rhomboid proteases
 
@@ -41,6 +40,19 @@
     - type: pdf
       text: Paper
       link: https://journals.asm.org/doi/pdf/10.1128/mbio.01718-23?download=true
+  tags:
+    - DiCre
+    - phospholipases
+    - collaboration
+
+- id: doi:10.1128/mbio.01413-23
+  type: paper
+  description: This paper describes a global knockout screen of phospholipases and the function of a phosphoinositide-specific phospholipase C (PF3D7_1013500) in *P. falciparum*.
+  image: https://journals.asm.org/cms/10.1128/mbio.01413-23/asset/65440d7b-b82b-4313-ad1b-b9ce726ccd06/assets/images/large/mbio.01413-23.f001.jpg
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://journals.asm.org/doi/pdf/10.1128/mbio.01413-23?download=true
   tags:
     - DiCre
     - phospholipases
