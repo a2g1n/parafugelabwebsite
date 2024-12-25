@@ -202,6 +202,11 @@ pdf:
   text: Download PDF
   tooltip: Download PDF
 
+protocols:
+  icon: fa-solid fa-vial-circle-check
+  text: Protocols
+  tooltip: Protocols
+
 # software
 
 docs:
