@@ -183,7 +183,7 @@ journal:
   tooltip: Journal
 
 preprint:
-  icon: fa-regular fa-eye
+  icon: fa-regular fa-scroll
   text: Preprint
   tooltip: Preprint
 
