@@ -136,7 +136,6 @@
 
 - id: doi:10.3389/fmicb.2022.839524
   type: paper
-  description: This paper describes the functions of perforin-like proteins and a lecithin:cholesterol acyltransferase (PF3D7_0629300) in *P. falciparum*.
   title: Pangenome Analysis of the Soilborne Fungal Phytopathogen *Rhizoctonia solani* and Development of a Comprehensive Web Resource: RsolaniDB
   authors:
   - Abhinav Kaushik
@@ -155,3 +154,29 @@
     - type: pdf
       text: Paper
       link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/pdf
+
+- id: doi:10.1186/s12915-021-00995-5
+  type: paper
+  title: Plasmodium vinckei genomes provide insights into the pan-genome and evolution
+    of rodent malaria parasites
+  description: This paper describes a genetic resource for the rodent malaria parasite *P. vinckei*.
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-021-00995-5/MediaObjects/12915_2021_995_Fig2_HTML.png?as=webp
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-021-00995-5.pdf
+    - type: paper
+      text: Commentary
+      link: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01019-y
+    - type: data
+      text: phylogenies (iTOL)
+      link: https://itol.embl.de/shared/2lCr6w0mdDENs
+    - type: data
+      text: Raw data (ENA)
+      link: https://www.ebi.ac.uk/ena/browser/view/PRJEB19355
+    - type: plasmid
+      text: Genomes & Transcriptomes (PlasmoDB)
+      link: https://plasmodb.org/plasmo/app/record/dataset/DS_649c2a1004
+  tags:
+    - genomes
+ 
