@@ -5,6 +5,7 @@ role: pi
 aliases:
   - A. Ramaprasad
   - A Ramaprasad
+  - Abhinay Ramaprasad
 links:
   home-page: https://www.gla.ac.uk/schools/infectionimmunity/staff/abhinayramaprasad/
   orcid: 0000-0001-9372-5526
