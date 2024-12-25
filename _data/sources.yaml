@@ -56,4 +56,38 @@
   tags:
     - DiCre
     - phospholipases
-    - collaboration
+
+- id: pmid:37352369
+  remove: true
+
+- id: doi:10.1371/journal.ppat.1011449
+  type: paper
+  description: This paper describes the functions of perforin-like proteins and a lecithin:cholesterol acyltransferase (PF3D7_0629300) in *P. falciparum*.
+  title: A malaria parasite phospholipase facilitates efficient asexual blood stage
+    egress.
+  authors:
+  - Abhinay Ramaprasad
+  - Paul-Christian Burda
+  - Konstantinos Koussis
+  - James A Thomas
+  - Emma Pietsch
+  - Enrica Calvani
+  - Steven A Howell
+  - James I MacRae
+  - Ambrosius P Snijders
+  - Tim-Wolf Gilberger
+  - Michael J Blackman
+  publisher: PLoS pathogens
+  date: '2023-06-23'
+  link: https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1011449
+  abhinay-ramaprasad: true
+  image: https://journals.plos.org/plospathogens/article/figure/image?size=large&id=10.1371/journal.ppat.1011449.g006
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1011449&type=printable
+  tags:
+    - DiCre
+    - phospholipases
+    - perforin-like proteins
+
