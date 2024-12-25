@@ -1,7 +1,7 @@
 - id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
   type: protocols
   publisher: protocols.io
-  description: This protocol describes a one-pot GoldenGate assembly of a new dual-guide targeting plasmid (pCas9-Duo) expressing two distinct guide RNAs in order to enhance the chances of a successful Cas9-mediated modification at a target region in *Plasmodium falciparum*.
+  description: 
   image: https://protocols-files.s3.amazonaws.com/files/qssucdmmp.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFAX46LHRVQMGOA%2F20241225%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241225T210932Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dba1d8be3cfcb7bcbca2e927c742f98fd0acb1918a526957262d5c80bcd543d5
   tags:
     - SHIFTiKO
