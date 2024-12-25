@@ -86,6 +86,12 @@
     - type: pdf
       text: Paper
       link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1011449&type=printable
+    - type: source
+      text: Analysis
+      link: https://github.com/a2g1n/LCATxcute
+    - type: docs
+      text: RNotebook
+      link: https://abbhinay.shinyapps.io/LCATxcute/
   tags:
     - DiCre
     - phospholipases
