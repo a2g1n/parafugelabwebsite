@@ -26,7 +26,8 @@
   plugin: sources.py
   file: sources.yaml
   type: preprint
-  description: null
+  description: This preprint introduces SHIFTiKO, a novel inducible gene knockout
+    system to study essential gene function at scale in **P. falciparum**.
   image: https://www.biorxiv.org/content/biorxiv/early/2024/01/15/2024.01.14.575607/F1.medium.gif
   buttons:
   - type: pdf
