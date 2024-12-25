@@ -165,7 +165,7 @@
     - type: pdf
       text: Paper
       link: https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-021-00995-5.pdf
-    - type: paper
+    - type: article
       text: Commentary
       link: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01019-y
     - type: data
@@ -174,7 +174,7 @@
     - type: data
       text: Raw data (ENA)
       link: https://www.ebi.ac.uk/ena/browser/view/PRJEB19355
-    - type: plasmid
+    - type: data
       text: Genomes & Transcriptomes (PlasmoDB)
       link: https://plasmodb.org/plasmo/app/record/dataset/DS_649c2a1004
   tags:
