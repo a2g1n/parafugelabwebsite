@@ -205,6 +205,7 @@
     link: https://itol.embl.de/shared/2lCr6w0mdDENs
   tags:
   - genomes
+  - transcriptomics
 - id: pmid:33279440
   title: Clinical outcomes of COVID-19 in long-term care facilities for people with
     epilepsy.
@@ -373,8 +374,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/cells9122590
-  title: MRE11 Is Crucial for Malaria Parasite Transmission and Its Absence Affects
-    Expression of Interconnected Networks of Key Genes Essential for Life
+  title: MRE11 is crucial for malaria parasite transmission and its absence affects
+    expression of interconnected networks of key genes essential for life
   authors:
   - David S. Guttery
   - Abhinay Ramaprasad
@@ -387,11 +388,18 @@
   - Rita Tewari
   publisher: Cells
   date: '2020-12-03'
-  link: https://doi.org/g8sgrh
+  link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01982-x
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://www.mdpi.com/cells/cells-09-02590/article_deploy/html/images/cells-09-02590-g004.png
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.mdpi.com/2073-4409/9/12/2590/pdf?version=1607085536
+  tags:
+  - transcriptomics
 - id: doi:10.1038/s41467-020-16593-y
   title: Malaria parasites regulate intra-erythrocytic development duration via serpentine
     receptor 10 to coordinate with host rhythms
