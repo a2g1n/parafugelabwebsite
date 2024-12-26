@@ -27,4 +27,16 @@
     - DiCre
     - protocols
 
-
+- title: Interactive R notebook associated with (GDPD preprint)[https://doi.org/j9bs]
+  type: book
+  id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
+  publisher: protocols.io
+  description: useful for exploring lipidomics data of GDPD (PF3D7_1406300)-null mutants 
+  authors:
+  - Abhinay Ramaprasad
+  date: '2023-05-14'
+  image: images/gdpd.png
+  tags:
+    - Dicre
+    - dataset
+    - code
