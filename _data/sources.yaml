@@ -425,7 +425,7 @@
 - id: doi:10.1101/350546
   remove: true
 
-- id: 10.1186/s12936-019-2659-4
+- id: doi:10.1186/s12936-019-2659-4
   title: A fast and cost-effective microsampling protocol incorporating reduced animal usage for time-series transcriptomics in rodent malaria parasites.
   authors:
   - Abhinay Ramaprasad
