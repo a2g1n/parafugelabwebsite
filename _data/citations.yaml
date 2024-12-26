@@ -260,7 +260,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16593-y/MediaObjects/41467_2020_16593_Fig3_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16593-y/MediaObjects/41467_2020_16593_Fig3_HTML.png
   buttons:
   - type: pdf
     text: Paper
@@ -1028,7 +1028,7 @@
   publisher: Malaria Journal
   date: '2019-01-25'
   link: https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2659-4
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12936-019-2659-4/MediaObjects/12936_2019_2659_Fig1_HTML.png?as=webp
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12936-019-2659-4/MediaObjects/12936_2019_2659_Fig1_HTML.png
   buttons:
   - type: pdf
     text: Paper
