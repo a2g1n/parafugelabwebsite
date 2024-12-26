@@ -165,14 +165,14 @@
       text: Commentary
       link: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-021-01019-y
     - type: data
-      text: phylogenies (iTOL)
-      link: https://itol.embl.de/shared/2lCr6w0mdDENs
+      text: Genomes & Transcriptomes (PlasmoDB)
+      link: https://plasmodb.org/plasmo/app/record/dataset/DS_649c2a1004
     - type: data
       text: Raw data (ENA)
       link: https://www.ebi.ac.uk/ena/browser/view/PRJEB19355
     - type: data
-      text: Genomes & Transcriptomes (PlasmoDB)
-      link: https://plasmodb.org/plasmo/app/record/dataset/DS_649c2a1004
+      text: phylogenies (iTOL)
+      link: https://itol.embl.de/shared/2lCr6w0mdDENs
   tags:
     - genomes
  
