@@ -167,23 +167,6 @@
   tags:
   - DiCre
   - glycerophosphodiesterase
-- id: pmid:35401459
-  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen
-  authors:
-  - Abhinav Kaushik
-  - Daniel P Roberts
-  - Abhinay Ramaprasad
-  - Sara Mfarrej
-  - Mridul Nair
-  - Dilip K Lakshman
-  - Arnab Pain
-  publisher: Frontiers in microbiology
-  date: '2022-03-25'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/35401459
-  orcid: 0000-0001-9372-5526
-  abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.1186/s12915-021-00995-5
   title: Plasmodium vinckei genomes provide insights into the pan-genome and evolution
     of rodent malaria parasites
@@ -963,5 +946,26 @@
   - DiCre
   - phospholipases
   - perforin-like proteins
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3389/fmicb.2022.839524
+  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen *Rhizoctonia solani*
+    and Development of a Comprehensive Web Resource- RsolaniDB
+  authors:
+  - Abhinav Kaushik
+  - Daniel P Roberts
+  - Abhinay Ramaprasad
+  - Sara Mfarrej
+  - Mridul Nair
+  - Dilip K Lakshman
+  - Arnab Pain
+  publisher: Frontiers in microbiology
+  date: '2022-03-25'
+  link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/full
+  type: paper
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/pdf
   plugin: sources.py
   file: sources.yaml
