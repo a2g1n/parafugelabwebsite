@@ -357,7 +357,7 @@
 - id: pmid:32653078
   remove: true
 
-- id:  
+- id: doi:10.1016/S0140-6736(20)31484-7 
   title: Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline health-care workers.
   authors:
   - Catherine F Houlihan
@@ -389,3 +389,12 @@
       link: https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931484-7
   tags:
     - covid-19
+
+- id: doi:10.1038/s41467-020-16593-y
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16593-y/MediaObjects/41467_2020_16593_Fig3_HTML.png?as=webp
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.nature.com/articles/s41467-020-16593-y.pdf
+  tags:
+    - transcriptomics
