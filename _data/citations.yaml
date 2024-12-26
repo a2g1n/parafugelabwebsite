@@ -205,24 +205,6 @@
     link: https://itol.embl.de/shared/2lCr6w0mdDENs
   tags:
   - genomes
-- id: pmid:33902581
-  title: Estimating the effectiveness of routine asymptomatic PCR testing at different
-    frequencies for the detection of SARS-CoV-2 infections.
-  authors:
-  - Joel Hellewell
-  - Timothy W Russell
-  - Rupert Beale
-  - Gavin Kelly
-  - Catherine Houlihan
-  - Eleni Nastouli
-  - Adam J Kucharski
-  publisher: BMC medicine
-  date: '2021-04-27'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/33902581
-  orcid: 0000-0001-9372-5526
-  abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: pmid:33279440
   title: Clinical outcomes of COVID-19 in long-term care facilities for people with
     epilepsy.
@@ -971,8 +953,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3389/fmicb.2022.839524
-  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen <i>Rhizoctonia solani</i>
-    and Development of a Comprehensive Web Resource- RsolaniDB
+  title: Pangenome analysis of the soilborne fungal phytopathogen <i>Rhizoctonia solani</i>
+    and development of a comprehensive web resource - RsolaniDB
   authors:
   - Abhinav Kaushik
   - Daniel P Roberts
@@ -989,5 +971,30 @@
   - type: pdf
     text: Paper
     link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/pdf
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1186/s12916-021-01982-x
+  title: Estimating the effectiveness of routine asymptomatic PCR testing at different
+    frequencies for the detection of SARS-CoV-2 infections.
+  authors:
+  - Joel Hellewell
+  - Timothy W Russell
+  - The SAFER Investigators and Field Study Team
+  - The Crick COVID-19 Consortium
+  - CMMID COVID-19 working group
+  - Rupert Beale
+  - Gavin Kelly
+  - Catherine Houlihan
+  - Eleni Nastouli
+  - Adam J Kucharski
+  publisher: BMC medicine
+  date: '2021-04-27'
+  link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01982-x
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-021-01982-x.pdf
+  tags:
+  - covid-19
   plugin: sources.py
   file: sources.yaml
