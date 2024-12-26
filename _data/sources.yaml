@@ -618,4 +618,30 @@
   tags:
     - review
 
+- id: handle:10754/626109
+  remove: true
 
+- id: doi:10.25781/KAUST-T1M05
+  type: book
+  title: Phenomics, Genomics and Genetics in Plasmodium vinckei
+  link: http://hdl.handle.net/10754/626109
+  publisher: KAUST Research Repository
+  date: '2018-11-05'
+  buttons:
+    - type: pdf
+      text: Thesis
+      link: https://repository.kaust.edu.sa/bitstreams/d6d8e59e-1268-4447-a20f-3afdf35038eb/download
+  tags:
+    - rodent-malaria-model
+    - NGS
+    - genomes
+    - transcriptomics
+
+- id: doi:10.25781/KAUST-1XW71
+  type: book
+  buttons:
+    - type: pdf
+      text: Thesis
+      link: https://repository.kaust.edu.sa/server/api/core/bitstreams/4c2cdfb8-99ae-4f64-8b63-6995ba0ba62d/content
+  tags:
+    - proteomics
