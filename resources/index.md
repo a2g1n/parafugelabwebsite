@@ -13,4 +13,4 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include section.html %}
 
-{% include citation.html data="citations" component="citation" style="large" filter=" type== 'protocols'" %}
+{% include citation.html data="citations" component="citation" style="rich" filter=" type== 'protocols'" %}
