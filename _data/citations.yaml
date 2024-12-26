@@ -186,7 +186,7 @@
   type: paper
   description: This paper describes a genetic resource for the rodent malaria parasite
     *P. vinckei*.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-021-00995-5/MediaObjects/12915_2021_995_Fig2_HTML.png?as=webp
+  image: images/vinckei.png
   buttons:
   - type: pdf
     text: Paper
