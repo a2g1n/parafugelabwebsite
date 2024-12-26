@@ -444,3 +444,58 @@
     - transcriptomics
     - rodent malaria model
     - NGS
+
+- id: doi:10.1371/journal.ppat.1006900
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1006900&type=printable
+  tags:
+    - rodent malaria model
+
+- id: doi:10.1371/journal.ppat.1006447
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1006447&type=printable
+  tags:
+    - rodent malaria model
+
+- id: pmid:28225668
+  remove: true
+
+- id: 
+  title: Emergence of indigenous artemisinin-resistant Plasmodium falciparum in Africa.
+  authors:
+  - Feng Lu
+  - Richard Culleton
+  - Meihua Zhang
+  - Abhinay Ramaprasad
+  - Lorenz von Seidlein
+  - Huayun Zhou
+  - Guoding Zhu
+  - Jianxia Tang
+  - Yaobao Liu
+  - Weiming Wang
+  - Yuanyuan Cao
+  - Sui Xu
+  - Yaping Gu
+  - Julin Li
+  - Chao Zhang
+  - Qi Gao
+  - Didier Menard
+  - Arnab Pain
+  - Haitao Yang
+  - Qingfeng Zhang
+  - Jun Cao
+  publisher: The New England Journal of Medicine
+  date: '2017-02-22'
+  link: https://www.nejm.org/doi/full/10.1056/NEJMc1612765
+  image: https://www.nejm.org/cms/10.1056/NEJMc1612765/asset/9561f1ab-0e0c-45a7-93c2-af88423d7366/assets/images/large/nejmc1612765_f1.jpg
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.nejm.org/doi/pdf/10.1056/NEJMc1612765
+  tags:
+    - NGS
+  
