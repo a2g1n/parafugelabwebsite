@@ -128,3 +128,25 @@
   tags:
     - DiCre
     - glycerophosphodiesterase
+
+- id: pmid:35401459
+  remove: true
+
+- id: doi:10.3389/fmicb.2022.839524
+  type: paper
+  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen *Rhizoctonia solani* and Development of a Comprehensive Web Resource: RsolaniDB
+  authors:
+  - Abhinav Kaushik
+  - Daniel P Roberts
+  - Abhinay Ramaprasad
+  - Sara Mfarrej
+  - Mridul Nair
+  - Dilip K Lakshman
+  - Arnab Pain
+  publisher: Frontiers in microbiology
+  date: '2022-03-25'
+  link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/full
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.frontiersin.org/journals/microbiology/articles/10.3389/fmicb.2022.839524/pdf
