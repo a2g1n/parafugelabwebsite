@@ -206,6 +206,8 @@
   tags:
   - genomes
   - transcriptomics
+  - rodent malaria model
+  - NGS
 - id: doi:10.3390/cells9122590
   title: MRE11 is crucial for malaria parasite transmission and its absence affects
     expression of interconnected networks of key genes essential for life
@@ -233,6 +235,8 @@
     link: https://www.mdpi.com/2073-4409/9/12/2590/pdf?version=1607085536
   tags:
   - transcriptomics
+  - rodent malaria model
+  - NGS
 - id: doi:10.1038/s41467-020-16593-y
   title: Malaria parasites regulate intra-erythrocytic development duration via serpentine
     receptor 10 to coordinate with host rhythms
@@ -263,21 +267,9 @@
     link: https://www.nature.com/articles/s41467-020-16593-y.pdf
   tags:
   - transcriptomics
-- id: doi:10.1101/350546
-  title: A fast and cost-effective microsampling protocol incorporating reduced animal
-    usage for time-series transcriptomics in rodent malaria parasites
-  authors:
-  - Abhinay Ramaprasad
-  - Amit Kumar Subudhi
-  - Richard Culleton
-  - Arnab Pain
-  publisher: Cold Spring Harbor Laboratory
-  date: '2018-06-20'
-  link: https://doi.org/gkxdqb
-  orcid: 0000-0001-9372-5526
-  abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  - gene knockout
+  - rodent malaria model
+  - NGS
 - id: doi:10.1038/s41598-019-46398-z
   title: Whole genome sequencing of amplified Plasmodium knowlesi DNA from unprocessed
     blood reveals genetic exchange events between Malaysian Peninsular and Borneo
@@ -308,8 +300,14 @@
   link: https://doi.org/g8sgrj
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.nature.com/articles/s41598-019-46398-z.pdf
+  tags:
+  - NGS
 - id: doi:10.1371/journal.ppat.1006900
   title: Timing of host feeding drives rhythms in parasite replication
   authors:
@@ -350,8 +348,14 @@
   link: https://doi.org/gfb95f
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-018-2487-y.pdf
+  tags:
+  - proteomics
 - id: doi:10.1371/journal.ppat.1006447
   title: Rapid identification of genes controlling virulence and immunity in malaria
     parasites
@@ -1011,5 +1015,27 @@
     link: https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931484-7
   tags:
   - covid-19
+  plugin: sources.py
+  file: sources.yaml
+- id: 10.1186/s12936-019-2659-4
+  title: A fast and cost-effective microsampling protocol incorporating reduced animal
+    usage for time-series transcriptomics in rodent malaria parasites.
+  authors:
+  - Abhinay Ramaprasad
+  - Amit Kumar Subudhi
+  - Richard Culleton
+  - Arnab Pain
+  publisher: Malaria Journal
+  date: '2019-01-25'
+  link: https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2659-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12936-019-2659-4/MediaObjects/12936_2019_2659_Fig1_HTML.png?as=webp
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-019-2659-4.pdf
+  tags:
+  - transcriptomics
+  - rodent malaria model
+  - NGS
   plugin: sources.py
   file: sources.yaml
