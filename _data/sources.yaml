@@ -134,7 +134,7 @@
 
 - id: doi:10.3389/fmicb.2022.839524
   type: paper
-  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen <i>Rhizoctonia solani</i> and Development of a Comprehensive Web Resource- RsolaniDB
+  title: Pangenome analysis of the soilborne fungal phytopathogen <i>Rhizoctonia solani</i> and development of a comprehensive web resource - RsolaniDB
   authors:
   - Abhinav Kaushik
   - Daniel P Roberts
@@ -176,3 +176,29 @@
   tags:
     - genomes
  
+- id: pmid:33902581
+  remove: true
+
+- id: doi:10.1186/s12916-021-01982-x
+  title: Estimating the effectiveness of routine asymptomatic PCR testing at different
+    frequencies for the detection of SARS-CoV-2 infections.
+  authors:
+  - Joel Hellewell
+  - Timothy W Russell
+  - The SAFER Investigators and Field Study Team
+  - The Crick COVID-19 Consortium
+  - CMMID COVID-19 working group
+  - Rupert Beale
+  - Gavin Kelly
+  - Catherine Houlihan
+  - Eleni Nastouli
+  - Adam J Kucharski
+  publisher: BMC medicine
+  date: '2021-04-27'
+  link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01982-x
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-021-01982-x.pdf
+  tags:
+    - covid-19
