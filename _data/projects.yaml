@@ -28,9 +28,9 @@
     - DiCre
     - protocols
 
-- title: Interactive R notebook associated with (GDPD preprint)[https://doi.org/j9bs]
+- title: Interactive R notebook associated with the GDPD paper
   type: book
-  description: useful for exploring lipidomics data of GDPD (PF3D7_1406300)-null mutants 
+  description: useful for exploring lipidomics data of GDPD (PF3D7_1406300)-null mutants published in <a href="https://elifesciences.org/articles/82207">GDPD paper</a>
   authors:
   - Abhinay Ramaprasad
   date: '2023-05-14'
