@@ -206,35 +206,6 @@
   tags:
   - genomes
   - transcriptomics
-- id: pmid:32653078
-  title: Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline
-    health-care workers.
-  authors:
-  - Catherine F Houlihan
-  - Nina Vora
-  - Thomas Byrne
-  - Dan Lewer
-  - Gavin Kelly
-  - Judith Heaney
-  - Sonia Gandhi
-  - Moira J Spyer
-  - Rupert Beale
-  - Peter Cherepanov
-  - David Moore
-  - Richard Gilson
-  - Steve Gamblin
-  - George Kassiotis
-  - Laura E McCoy
-  - Charles Swanton
-  - Andrew Hayward
-  - Eleni Nastouli
-  publisher: Lancet (London, England)
-  date: '2020-07-09'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/32653078
-  orcid: 0000-0001-9372-5526
-  abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
 - id: doi:10.3390/cells9122590
   title: MRE11 is crucial for malaria parasite transmission and its absence affects
     expression of interconnected networks of key genes essential for life
@@ -283,8 +254,15 @@
   link: https://doi.org/gk46n4
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16593-y/MediaObjects/41467_2020_16593_Fig3_HTML.png?as=webp
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.nature.com/articles/s41467-020-16593-y.pdf
+  tags:
+  - transcriptomics
 - id: doi:10.1101/350546
   title: A fast and cost-effective microsampling protocol incorporating reduced animal
     usage for time-series transcriptomics in rodent malaria parasites
@@ -996,6 +974,41 @@
   - type: pdf
     text: Paper
     link: https://www.nature.com/articles/s41587-020-0588-y.pdf
+  tags:
+  - covid-19
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1016/S0140-6736(20)31484-7
+  title: Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline
+    health-care workers.
+  authors:
+  - Catherine F Houlihan
+  - Nina Vora
+  - Thomas Byrne
+  - Dan Lewer
+  - Gavin Kelly
+  - Judith Heaney
+  - Sonia Gandhi
+  - Moira J Spyer
+  - Rupert Beale
+  - Peter Cherepanov
+  - David Moore
+  - Richard Gilson
+  - Steve Gamblin
+  - George Kassiotis
+  - Laura E McCoy
+  - Charles Swanton
+  - Crick COVID Consortium
+  - Andrew Hayward
+  - Eleni Nastouli
+  - SAFER Investigators
+  publisher: Lancet
+  date: '2020-07-09'
+  link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31484-7/fulltext
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931484-7
   tags:
   - covid-19
   plugin: sources.py
