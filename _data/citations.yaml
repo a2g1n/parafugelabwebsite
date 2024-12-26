@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.17504/protocols.io.eq2ly68begx9/v1
+  title: Design strategy for DiCre-mediated inducible gene knockout in the malaria
+    parasite  v1
+  authors:
+  - Anagha Rajesh Salvi
+  - Abhinay Ramaprasad
+  publisher: Springer Science and Business Media LLC
+  date: '2024-12-22'
+  link: https://doi.org/g8wx44
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
   title: Single-step assembly of double guide plasmid (pCas9-Duo) for gene-editing
     in Plasmodium v1
@@ -88,6 +100,18 @@
   publisher: PLoS pathogens
   date: '2023-06-23'
   link: https://www.ncbi.nlm.nih.gov/pubmed/37352369
+  orcid: 0000-0001-9372-5526
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.parint.2022.102680
+  title: 'A song for the unsung: The relevance of Plasmodium vinckei as a laboratory
+    rodent malaria system'
+  authors:
+  - Abhinay Ramaprasad
+  - Richard Culleton
+  publisher: Parasitology International
+  date: '2023-02-01'
+  link: https://doi.org/g8w2fr
   orcid: 0000-0001-9372-5526
   plugin: orcid.py
   file: orcid.yaml
