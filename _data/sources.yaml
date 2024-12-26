@@ -134,7 +134,7 @@
 
 - id: doi:10.3389/fmicb.2022.839524
   type: paper
-  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen *Rhizoctonia solani* and Development of a Comprehensive Web Resource- RsolaniDB
+  title: Pangenome Analysis of the Soilborne Fungal Phytopathogen <i>Rhizoctonia solani</i> and Development of a Comprehensive Web Resource- RsolaniDB
   authors:
   - Abhinav Kaushik
   - Daniel P Roberts
