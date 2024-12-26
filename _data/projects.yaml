@@ -33,8 +33,8 @@
   description: useful for exploring lipidomics data of GDPD (PF3D7_1406300)-null mutants.
   authors:
   - Abhinay Ramaprasad
-  id: -
-  publisher: -
+  id: 
+  publisher: 
   date: '2023-05-14'
   image: images/gdpd.png
   link: https://abbhinay.shinyapps.io/GDPD/
@@ -52,8 +52,8 @@
   description: useful for exploring data on LCAT (PF3D7_0629300)-null mutants.
   authors:
   - Abhinay Ramaprasad
-  id: -
-  publisher: -
+  id: 
+  publisher: 
   date: '2023-05-29'
   image: images/lcat.png
   link: https://abbhinay.shinyapps.io/LCATxcute/
