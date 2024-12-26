@@ -134,7 +134,7 @@
 
 - id: doi:10.3389/fmicb.2022.839524
   type: paper
-  title: Pangenome analysis of the soilborne fungal phytopathogen <i>Rhizoctonia solani</i> and development of a comprehensive web resource - RsolaniDB
+  title: 'Pangenome analysis of the soilborne fungal phytopathogen <i>Rhizoctonia solani</i> and development of a comprehensive web resource: RsolaniDB'
   authors:
   - Abhinav Kaushik
   - Daniel P Roberts
@@ -565,4 +565,41 @@
   tags:
     - transcriptomics
     - rodent malaria model
+
+- id: doi:10.1093/nar/gku322
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://watermark.silverchair.com/gku322.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA04wggNKBgkqhkiG9w0BBwagggM7MIIDNwIBADCCAzAGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMT4DZt1MQe0A-nJahAgEQgIIDAXQY0JPwUj522iMbP9-uSolgNKT6YkbfKy_74gqxTDgV228YuI8aH9L4p5lD3A79uW_OBfKuaM3IyQ3mpQcVgK1CLWwSBMJR1PN7OTg165S4ksqutY1Ni0FktyyTKiKVLt4OT9MN7txJOPQ5Se8jR9uTtopMJ9740aH1-cKEy6SGaMwkw_miImwkNfe2pgMdzAwVsAI9B0Ru84aMne74503ScBq-_TKHUjQmn83P0bH4Yc2WP_olU4TJM35PcUJBjl749AAFgH-BmJtEtuCWw7HJA-i43KUH3vYh0DXeW9QxDtJY7TA68Ar766KN7ndYJjpgd25B80QouFejBqMN9DHwt8v_NKSkcZww_IwNZlvkUMJJm3pnHOz_RTUJRJIJ1z7nEDwWXg00BsgbWSed0BlsiUZW11v4QtpaKlZz2T8YYPgTUsnCrjYBw82rzmznyZb83UKQKSCJwte2R9PdkiSp8IoLvu4fhBpeB2o6IIBkjMDYEguPHFXjusAeDIz2se7ZtSXUmQAnBZ6POsWeXVPj6jhSdusWMwRQYkFXxYJ1PNuRDS6_JDAreOAuCOJhKui8VZ7dltqTM4wpej7awpvHH9L5rEoS7C7-DEXEXvIRjyDK770z3gX_A9TWFjuOIccnKSyXlJSoEoNfSIKRWY6Z9GUw1k9tp6Ey-N14BTdpiFv0SEknWLl3n_5Gmds0dBZgbElDGsJxeYAP6_6nrVbZo40Iad_shyuTaqKxDVieatl1Epa4f6YdQawS_S7wCdYQ475-Mc-5XAnkstbICSQe7o-0-J76GLp682_CAPn0gC-b_yAxQq-UWpvZj7lwCX3NfK5hKlcdWUOGfzUM_38QMLkNDqCoxL5zzoZ5JwYLGqIrwbMb82e9E1oJKox3R_ke3tJnCBn2Xc3s-YydwTZ7WhGICV_B1K-u_ULKtuoe1IZfcbX4UNaZgSUeW8DfeuuL-G-pwL61dRusEwfv1MHN7-RvAv_Jw7u37rY9SQTPMfjcepLLhkL0fYtRqO3ypA8
+  tags:
+    - genome annotation
+    - NGS
+
+- id: doi:10.1371/journal.pone.0088408
+  title: Interleukin-10 regulates hepcidin in Plasmodium falciparum malaria
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0088408&type=printable
+  tags:
+    - proteomics
+
+- id: doi:10.1021/pr300858g
+  title: 'PfHPRT: A new biomarker candidate of acute <i>Plasmodium falciparum</i> infection'
+  buttons:
+    - type: pdf
+      text: Paper
+      link: pdfs/thezenas-et-al-2013.pdf
+  tags:
+    - proteomics
+
+- id: doi:10.1016/j.ygeno.2011.11.006
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0888754311002631-gr3.jpg
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://pdf.sciencedirectassets.com/272501/1-s2.0-S0888754312X00028/1-s2.0-S0888754311002631/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFYaCXVzLWVhc3QtMSJHMEUCIQDvHsJ81Gc%2F1%2Fc46xuDuQ%2BnVXiA3SU8IiR2TgvMD7WymAIgOaZuqOhPucdNCeQw5995UuWy%2BEUsSVq5CbgxDnkMlzMqswUILhAFGgwwNTkwMDM1NDY4NjUiDNu3VDnnP3blNmUnVCqQBeUOzH53Pzl4J0oq2OdanrOV9ECY0TmjolK8dO9lbkUMgCQu8fVKeG0e%2Bg%2BqeXQbnYFrZ5loZfT4wdyIpmDygPpIk6TaEldmcOTRZUzBLbLFFzbmsdjtHGEctAnYIOGMIlVw2slUrPNLMqPchVxffZFfKdmX%2BunQD5OxJYDR1sWYCxrDJB1FQzVVsUh692Q5NpFiT83fdHbgOCFvg32pAXlMpaBGEAjWeJlwXbqic4RcRXDu%2BRZ%2FwpDEJqgrkv2Jx2VbDZQHm0VMeHIdNjAFLtRdSaVtE0De%2BwgeZKhy2cRGY1pZFhJzqGtdtBaBJwd8eBP8KR0dA0ZUJikFdkEJLOLd2TlxE1qcfOYsVPbxFbmakSsXgcOsenlU40gDXVlUNoVOuYv12GiVt9iyNDFXKmU3Gxyik4hc%2Bb6ZHv9095RJ1EZl%2BH2ve8xZYb6yI5iYofV4oIPl%2Brr8rsCiw%2FbGbJb9JYoYrYk291r8xqQrZcUWfksYXjnsLUsccAjBN62CFr3McrRVq7LN0DV%2FzY%2FQttVMXM8tlJTvoNdQV5c9Gw1posd%2B%2FYmi9sFNiJ1%2FR1rXKY0wLnpqnVvVe6vQh43hVDSlQxyT1Y6OVu65x18C1nwSIE%2BGAvy3V4A7WIgpzP%2FhcYNMDpv6B8qzrtej2q95BuWTuAeCOal6MwATyTw%2FvQlibUeV0KxHdzQ50tH1SY0FKNKGWlj5CWbycPQ5%2BGqE4ToPUSzT8h2%2BmFjw1ADi8C1k9zEtjaRHOwuTT77EjRLjO%2B%2BQjivXPxXmk85YEvMp%2BeJOoIv4jCLsyf%2B%2FXNkE89SCc98MDCeEH1iojfpCTn75TO1KkVyDjNMfU%2BKpOpBMAemC3cQLSsA03zIOM08uUXTbMI6qtbsGOrEBz0UPDgWS6JBU7tU5smxpkEa1EDNVEp0WSo53gQlwnPZx%2BERE3pO1eHvxepvlUfjPxg221drNJ%2BpzRIUdYva0btE9vnlPkJLPtewdh%2F2udC3z6OmILoHTMS4aiOw9KEpKKq5uiaaw3n0wtknY6wEwWz38patAVdDJ2nJ3UCEQWhftkVw6yEsF4lPWZUcKmlDZpsEvxSXfKi8DfyraCSSACr5Vare0AUIkVlEkXEDNQmpp&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20241226T150701Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY6PFBPHZY%2F20241226%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=5165215d3b648176cb0cca9ea7583e375f37ad5a335ca5d1d5b90170284fcc3a&hash=6191605db6c162f575fa8b0b9e541ca37a084e3685ec390b358f7e55ac9fa314&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0888754311002631&tid=spdf-ccbe5474-d027-4764-a223-fc6800c6d02a&sid=4ecccfda38bba44e393bc750219d5a34b15agxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d045d095b56090f505b54&rr=8f81fa641c6dd1fe&cc=gb
+  tags:
+    - review
+
 
