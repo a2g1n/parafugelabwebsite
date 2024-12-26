@@ -3,6 +3,10 @@ name: Anagha Rajesh Salvi
 image: images/Anagha.png
 description: Technician
 role: technician
+aliases:
+  - A. Ramaprasad
+  - A Ramaprasad
+  - Abhinay Ramaprasad
 links:
   email: anagharajesh.salvi@glasgow.ac.uk
 ---
