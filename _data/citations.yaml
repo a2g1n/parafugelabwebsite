@@ -228,6 +228,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: https://www.mdpi.com/cells/cells-09-02590/article_deploy/html/images/cells-09-02590-g004.png
   buttons:
   - type: pdf
@@ -260,6 +261,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: images/sr10ko.png
   buttons:
   - type: pdf
@@ -302,6 +304,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -329,6 +332,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -356,6 +360,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -392,6 +397,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -426,6 +432,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -461,6 +468,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -496,6 +504,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.ppat.1005273/1/ppat.1005273.g006.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241226T143646Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=753f351660b164fdc3455ae03f497788d44bdb722069e8532c3c9b9f065c87c8361d350e5991e726a9db7f2c91c982a8d1a4841e2fce93b68d62be94ee1aae89b4a4ce33afa7d305a8b54c6e2c2ce908766b642b8d2c1295ef73f731077f98f531527a72cbc5f81dd8b0581904557e328177cef2ebc19d97796c428d8f5df0b1612a2a325050a8736ede3ca09fab23e87f1f727e1eee819f6aecf1840df02be0ffd5baba06c8a6241557e9237f523d97163204c091545774052722ab8bf2857bd56f4e07d7dd018aef70307ae755b3ddfabba2f27a7d469fddc6de8830cbad1c019dda4b916e0a084094a409d275307f7adbf0c4706e648ee4bc25e6b3387f92
   buttons:
   - type: pdf
@@ -558,6 +567,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -586,6 +596,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0124473/1/pone.0124473.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241226T144153Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=821e118cc76ddba021ee6e291c9c0ba8cd4954d3d35602ae66110d5f3be6baabdd0a274271b0a6342e0f7999a0e5efb589910c238d0f5b018f3dba9b25c644b5c407398c12493fa45d2601bcec91830fc637e57bfbe70d6aba5665a1f14b7754c8699ce5311c6b9ac4e815c835688297c208f037b978a7a512db1564920cb9ed4173696305319aafa6b0119b7b841137728903715b8013ca1e1a0d4e00e2a59d7e9318958991c6dc2ca1caba10053fceddaaea031b68280dd37293659eff8f571f7a570b19d3cc5d565eda5000b6adf4473dfd684883f230d0e362d977fc2803809390c7de67683a6db3b74a36756348a84c0e1f08fbf735267c0487a7c0636b
   buttons:
   - type: pdf
@@ -616,6 +627,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -651,6 +663,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: https://www.cell.com/cms/10.1016/j.chom.2014.05.020/asset/6e361823-c71a-4ed6-ba50-35e1e9451c59/main.assets/gr5_lrg.jpg
   buttons:
   - type: pdf
@@ -677,6 +690,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -725,6 +739,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -754,6 +769,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -774,6 +790,7 @@
   abhinay-ramaprasad: true
   plugin: sources.py
   file: sources.yaml
+  type: paper
   image: https://ars.els-cdn.com/content/image/1-s2.0-S0888754311002631-gr3.jpg
   buttons:
   - type: pdf
@@ -821,7 +838,7 @@
   file: sources.yaml
 - id: doi:10.1371/journal.ppat.1011449
   title: A malaria parasite phospholipase facilitates efficient asexual blood stage
-    egress.
+    egress
   authors:
   - Abhinay Ramaprasad
   - Paul-Christian Burda
@@ -915,6 +932,7 @@
   publisher: BMC medicine
   date: '2021-04-27'
   link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01982-x
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -952,6 +970,7 @@
   publisher: Epilepsy & Behavior
   date: '2020-11-05'
   link: https://www.sciencedirect.com/science/article/pii/S1525505020307824
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -1047,6 +1066,7 @@
   publisher: Nature biotechnology
   date: '2020-08-01'
   link: https://www.nature.com/articles/s41587-020-0588-y
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -1082,6 +1102,7 @@
   publisher: Lancet
   date: '2020-07-09'
   link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31484-7/fulltext
+  type: paper
   buttons:
   - type: pdf
     text: Paper
@@ -1101,6 +1122,7 @@
   publisher: Malaria Journal
   date: '2019-01-25'
   link: https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2659-4
+  type: paper
   image: images/microsampling.png
   buttons:
   - type: pdf
@@ -1139,6 +1161,7 @@
   publisher: The New England Journal of Medicine
   date: '2017-02-22'
   link: https://www.nejm.org/doi/full/10.1056/NEJMc1612765
+  type: paper
   image: https://www.nejm.org/cms/10.1056/NEJMc1612765/asset/9561f1ab-0e0c-45a7-93c2-af88423d7366/assets/images/large/nejmc1612765_f1.jpg
   buttons:
   - type: pdf
