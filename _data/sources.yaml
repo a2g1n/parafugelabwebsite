@@ -156,7 +156,7 @@
   title: Plasmodium vinckei genomes provide insights into the pan-genome and evolution
     of rodent malaria parasites
   description: This paper describes a genetic resource for the rodent malaria parasite *P. vinckei*.
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12915-021-00995-5/MediaObjects/12915_2021_995_Fig2_HTML.png
+  image: images/vinckei.png
   buttons:
     - type: pdf
       text: Paper
@@ -395,7 +395,7 @@
     - covid-19
 
 - id: doi:10.1038/s41467-020-16593-y
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fs41467-020-16593-y/MediaObjects/41467_2020_16593_Fig3_HTML.png
+  image: images/sr10ko.png
   buttons:
     - type: pdf
       text: Paper
@@ -435,7 +435,7 @@
   publisher: Malaria Journal
   date: '2019-01-25'
   link: https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2659-4
-  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12936-019-2659-4/MediaObjects/12936_2019_2659_Fig1_HTML.png
+  image: images/microsampling.png
   buttons:
     - type: pdf
       text: Paper
