@@ -518,6 +518,7 @@
     - genome annotation
 
 - id: doi:10.1371/journal.ppat.1005273
+  title: Plasmodium P-Type Cyclin CYC3 modulates endomitotic growth during oocyst development in mosquitoes
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.ppat.1005273/1/ppat.1005273.g006.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241226T143646Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=753f351660b164fdc3455ae03f497788d44bdb722069e8532c3c9b9f065c87c8361d350e5991e726a9db7f2c91c982a8d1a4841e2fce93b68d62be94ee1aae89b4a4ce33afa7d305a8b54c6e2c2ce908766b642b8d2c1295ef73f731077f98f531527a72cbc5f81dd8b0581904557e328177cef2ebc19d97796c428d8f5df0b1612a2a325050a8736ede3ca09fab23e87f1f727e1eee819f6aecf1840df02be0ffd5baba06c8a6241557e9237f523d97163204c091545774052722ab8bf2857bd56f4e07d7dd018aef70307ae755b3ddfabba2f27a7d469fddc6de8830cbad1c019dda4b916e0a084094a409d275307f7adbf0c4706e648ee4bc25e6b3387f92
   buttons:
     - type: pdf
@@ -544,6 +545,7 @@
     - NGS
 
 - id: doi:10.1371/journal.pone.0124473
+  title: Comprehensive evaluation of Toxoplasma gondii VEG and Neospora caninum LIV genomes with tachyzoite stage transcriptome and proteome defines novel transcript features
   image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0124473/1/pone.0124473.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241226T144153Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=821e118cc76ddba021ee6e291c9c0ba8cd4954d3d35602ae66110d5f3be6baabdd0a274271b0a6342e0f7999a0e5efb589910c238d0f5b018f3dba9b25c644b5c407398c12493fa45d2601bcec91830fc637e57bfbe70d6aba5665a1f14b7754c8699ce5311c6b9ac4e815c835688297c208f037b978a7a512db1564920cb9ed4173696305319aafa6b0119b7b841137728903715b8013ca1e1a0d4e00e2a59d7e9318958991c6dc2ca1caba10053fceddaaea031b68280dd37293659eff8f571f7a570b19d3cc5d565eda5000b6adf4473dfd684883f230d0e362d977fc2803809390c7de67683a6db3b74a36756348a84c0e1f08fbf735267c0487a7c0636b
   buttons:
     - type: pdf
@@ -553,5 +555,14 @@
     - transcriptomics
     - genome annotation
 
-
+- id: doi:10.1016/j.chom.2014.05.020
+  title: Genome-wide functional analysis of Plasmodium protein phosphatases reveals key regulators of parasite development and differentiation
+  image: https://www.cell.com/cms/10.1016/j.chom.2014.05.020/asset/6e361823-c71a-4ed6-ba50-35e1e9451c59/main.assets/gr5_lrg.jpg
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.cell.com/action/showPdf?pii=S1931-3128%2814%2900219-4
+  tags:
+    - transcriptomics
+    - rodent malaria model
 
