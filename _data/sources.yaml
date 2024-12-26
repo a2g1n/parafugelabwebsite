@@ -176,6 +176,8 @@
   tags:
     - genomes
     - transcriptomics
+    - rodent malaria model
+    - NGS
  
 - id: pmid:33902581
   remove: true
@@ -214,6 +216,8 @@
       link: https://www.mdpi.com/2073-4409/9/12/2590/pdf?version=1607085536
   tags:
     - transcriptomics
+    - rodent malaria model
+    - NGS
 
 - id: pmid:33279440
   remove: true
@@ -398,3 +402,45 @@
       link: https://www.nature.com/articles/s41467-020-16593-y.pdf
   tags:
     - transcriptomics
+    - gene knockout
+    - rodent malaria model
+    - NGS
+
+- id: doi:10.1038/s41598-019-46398-z
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.nature.com/articles/s41598-019-46398-z.pdf
+  tags:
+    - NGS
+
+- id: doi:10.1186/s12936-018-2487-y
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-018-2487-y.pdf
+  tags:
+    - proteomics
+
+- id: doi:10.1101/350546
+  remove: true
+
+- id: 10.1186/s12936-019-2659-4
+  title: A fast and cost-effective microsampling protocol incorporating reduced animal usage for time-series transcriptomics in rodent malaria parasites.
+  authors:
+  - Abhinay Ramaprasad
+  - Amit Kumar Subudhi
+  - Richard Culleton
+  - Arnab Pain
+  publisher: Malaria Journal
+  date: '2019-01-25'
+  link: https://malariajournal.biomedcentral.com/articles/10.1186/s12936-019-2659-4
+  image: https://media.springernature.com/full/springer-static/image/art%3A10.1186%2Fs12936-019-2659-4/MediaObjects/12936_2019_2659_Fig1_HTML.png?as=webp
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://malariajournal.biomedcentral.com/counter/pdf/10.1186/s12936-019-2659-4.pdf
+  tags:
+    - transcriptomics
+    - rodent malaria model
+    - NGS
