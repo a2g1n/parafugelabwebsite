@@ -11,8 +11,10 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include tags.html tags="protocols, dataset, code" %}
 
-{% include search-info.html %}
-
 {% include section.html %}
+
+{% include search-box.html %}
+
+{% include search-info.html %}
 
 {% include list.html component="citation" data="citations" filter=" type== 'protocols'" style="rich" %}
