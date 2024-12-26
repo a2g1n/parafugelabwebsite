@@ -327,8 +327,14 @@
   link: https://doi.org/gc3ssh
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1006900&type=printable
+  tags:
+  - rodent malaria model
 - id: doi:10.1186/s12936-018-2487-y
   title: Proteomic profiling of the plasma of Gambian children with cerebral malaria
   authors:
@@ -384,39 +390,14 @@
   link: https://doi.org/gbnkfp
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
-- id: pmid:28225668
-  title: Emergence of Indigenous Artemisinin-Resistant Plasmodium falciparum in Africa.
-  authors:
-  - Feng Lu
-  - Richard Culleton
-  - Meihua Zhang
-  - Abhinay Ramaprasad
-  - Lorenz von Seidlein
-  - Huayun Zhou
-  - Guoding Zhu
-  - Jianxia Tang
-  - Yaobao Liu
-  - Weiming Wang
-  - Yuanyuan Cao
-  - Sui Xu
-  - Yaping Gu
-  - Julin Li
-  - Chao Zhang
-  - Qi Gao
-  - Didier Menard
-  - Arnab Pain
-  - Haitao Yang
-  - Qingfeng Zhang
-  - Jun Cao
-  publisher: The New England journal of medicine
-  date: '2017-02-22'
-  link: https://www.ncbi.nlm.nih.gov/pubmed/28225668
-  orcid: 0000-0001-9372-5526
-  abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://journals.plos.org/plospathogens/article/file?id=10.1371/journal.ppat.1006447&type=printable
+  tags:
+  - rodent malaria model
 - id: handle:10754/626109
   title: ''
   authors: []
@@ -481,8 +462,8 @@
   link: https://doi.org/f9m4cj
   orcid: 0000-0001-9372-5526
   abhinay-ramaprasad: true
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.ppat.1005273
   title: Plasmodium P-Type Cyclin CYC3 Modulates Endomitotic Growth during Oocyst
     Development in Mosquitoes
@@ -1036,6 +1017,42 @@
   tags:
   - transcriptomics
   - rodent malaria model
+  - NGS
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1056/NEJMc1612765
+  title: Emergence of indigenous artemisinin-resistant Plasmodium falciparum in Africa.
+  authors:
+  - Feng Lu
+  - Richard Culleton
+  - Meihua Zhang
+  - Abhinay Ramaprasad
+  - Lorenz von Seidlein
+  - Huayun Zhou
+  - Guoding Zhu
+  - Jianxia Tang
+  - Yaobao Liu
+  - Weiming Wang
+  - Yuanyuan Cao
+  - Sui Xu
+  - Yaping Gu
+  - Julin Li
+  - Chao Zhang
+  - Qi Gao
+  - Didier Menard
+  - Arnab Pain
+  - Haitao Yang
+  - Qingfeng Zhang
+  - Jun Cao
+  publisher: The New England Journal of Medicine
+  date: '2017-02-22'
+  link: https://www.nejm.org/doi/full/10.1056/NEJMc1612765
+  image: https://www.nejm.org/cms/10.1056/NEJMc1612765/asset/9561f1ab-0e0c-45a7-93c2-af88423d7366/assets/images/large/nejmc1612765_f1.jpg
+  buttons:
+  - type: pdf
+    text: Paper
+    link: https://www.nejm.org/doi/pdf/10.1056/NEJMc1612765
+  tags:
   - NGS
   plugin: sources.py
   file: sources.yaml
