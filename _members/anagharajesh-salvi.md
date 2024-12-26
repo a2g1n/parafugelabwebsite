@@ -4,9 +4,9 @@ image: images/Anagha.png
 description: Technician
 role: technician
 aliases:
-  - A. Ramaprasad
-  - A Ramaprasad
-  - Abhinay Ramaprasad
+  - A.R. Salvi
+  - A R Salvi
+  - Anagha Rajesh Salvi
 links:
   email: anagharajesh.salvi@glasgow.ac.uk
 ---
