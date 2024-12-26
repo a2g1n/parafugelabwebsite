@@ -163,7 +163,7 @@ error:
 # publications
 
 paper:
-  icon: fa-solid fa-scroll
+  icon: fa-solid fa-newspaper
   text: Paper
   tooltip: Paper
 
