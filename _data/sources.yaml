@@ -353,3 +353,39 @@
       link: https://www.nature.com/articles/s41587-020-0588-y.pdf
   tags:
     - covid-19
+
+- id: pmid:32653078
+  remove: true
+
+- id:  
+  title: Pandemic peak SARS-CoV-2 infection and seroconversion rates in London frontline health-care workers.
+  authors:
+  - Catherine F Houlihan
+  - Nina Vora
+  - Thomas Byrne
+  - Dan Lewer
+  - Gavin Kelly
+  - Judith Heaney
+  - Sonia Gandhi
+  - Moira J Spyer
+  - Rupert Beale
+  - Peter Cherepanov
+  - David Moore
+  - Richard Gilson
+  - Steve Gamblin
+  - George Kassiotis
+  - Laura E McCoy
+  - Charles Swanton
+  - Crick COVID Consortium
+  - Andrew Hayward
+  - Eleni Nastouli
+  - SAFER Investigators
+  publisher: Lancet
+  date: '2020-07-09'
+  link: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)31484-7/fulltext
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2931484-7
+  tags:
+    - covid-19
