@@ -13,15 +13,4 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="DiCre" style="rich" %}
-
-
-## All
-
-{% include search-box.html %}
-
-{% include search-info.html %}
-
-{% include list.html data="citations" component="citation" style="rich" filter=" type== 'protocols'" %}
+{% include card.html data="citations" component="citation" style="large" filter=" type== 'protocols'" %}
