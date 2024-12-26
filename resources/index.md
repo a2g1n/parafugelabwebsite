@@ -13,8 +13,10 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include section.html %}
 
+## All
+
 {% include search-box.html %}
 
 {% include search-info.html %}
 
-{% include list.html component="citation" data="citations" filter=" type== 'protocols'" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" filter=" type== 'protocols'" %}
