@@ -175,6 +175,7 @@
       link: https://itol.embl.de/shared/2lCr6w0mdDENs
   tags:
     - genomes
+    - transcriptomics
  
 - id: pmid:33902581
   remove: true
@@ -202,3 +203,14 @@
       link: https://bmcmedicine.biomedcentral.com/counter/pdf/10.1186/s12916-021-01982-x.pdf
   tags:
     - covid-19
+
+- id: doi:10.3390/cells9122590
+  title: MRE11 is crucial for malaria parasite transmission and its absence affects expression of interconnected networks of key genes essential for life
+  link: https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-021-01982-x
+  image: https://www.mdpi.com/cells/cells-09-02590/article_deploy/html/images/cells-09-02590-g004.png
+  buttons:
+    - type: pdf
+      text: Paper
+      link: https://www.mdpi.com/2073-4409/9/12/2590/pdf?version=1607085536
+  tags:
+    - transcriptomics
