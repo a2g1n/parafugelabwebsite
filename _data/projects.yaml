@@ -1,5 +1,6 @@
 - title: Design strategy for DiCre-mediated inducible gene knockout in the malaria parasite
   type: protocols
+  id: doi:10.17504/protocols.io.eq2ly68begx9/v1
   publisher: protocols.io
   description: This protocol describes a detailed strategy for inducibly knocking out a target gene in Plasmodium species using the Dimerisable Cre (DiCre) recombinase system, with a primary focus on *Plasmodium falciparum*.
   authors:
@@ -12,18 +13,9 @@
   date: '2024-12-24'
   link: https://dx.doi.org/10.17504/protocols.io.eq2ly68begx9/v1
 
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
 - title: Single-step assembly of double guide plasmid (pCas9-Duo) for gene-editing in Plasmodium 
   type: protocols
+  id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
   publisher: protocols.io
   description: This protocol describes a one-pot GoldenGate assembly of a new dual-guide targeting plasmid (pCas9-Duo) expressing two distinct guide RNAs in order to enhance the chances of a successful Cas9-mediated modification at a target region in *Plasmodium falciparum*.
   authors:
@@ -35,50 +27,4 @@
     - DiCre
     - protocols
 
-- title: Cool Dataset
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
 
-- title: Cool Package
-  subtitle: a subtitle
-  group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-
-- title: Cool Tutorial
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - resource
-    - publication
-
-- title: Cool Web App
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
-
-- title: Cool Web Server
-  subtitle: a subtitle
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-  tags:
-    - software
