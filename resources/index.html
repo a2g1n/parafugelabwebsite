@@ -638,8 +638,6 @@
       </a>
     
   </div>
-
-<div class="search-info"></div>
   </section>
 
   
@@ -652,6 +650,15 @@
   dark: ;
   size: ;
 -->
+
+<div class="search-box">
+  <input type="text" class="search-input" oninput="onSearchInput(this)" placeholder="Search items on this page">
+  <button disabled data-tooltip="Clear search" aria-label="clear search" onclick="onSearchClear()">
+    <i class="icon fa-solid fa-magnifying-glass"></i>
+  </button>
+</div>
+
+<div class="search-info"></div>
 
 <div class="citation-container">
   <div class="citation">
