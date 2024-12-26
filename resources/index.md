@@ -13,6 +13,11 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {% include section.html %}
 
+## Highlighted
+
+{% include citation.html lookup="DiCre" style="rich" %}
+
+
 ## All
 
 {% include search-box.html %}
