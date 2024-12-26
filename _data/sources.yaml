@@ -464,7 +464,7 @@
 - id: pmid:28225668
   remove: true
 
-- id: 
+- id: doi:10.1056/NEJMc1612765
   title: Emergence of indigenous artemisinin-resistant Plasmodium falciparum in Africa.
   authors:
   - Feng Lu
@@ -498,4 +498,4 @@
       link: https://www.nejm.org/doi/pdf/10.1056/NEJMc1612765
   tags:
     - NGS
-  
+- id: doi:10.1016/j.ijpara.2016.05.009  
