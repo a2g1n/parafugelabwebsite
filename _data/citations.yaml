@@ -91,7 +91,6 @@
   tags:
   - DiCre
   - phospholipases
-  - collaboration
 - id: doi:10.1128/mbio.01413-23
   title: "Global analysis of putative phospholipases in\n            <i>Plasmodium\
     \ falciparum</i>\n            reveals an essential role of the phosphoinositide-specific\
@@ -908,27 +907,6 @@
   abhinay-ramaprasad: true
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.17504/protocols.io.eq2ly68begx9/v1
-  title: Design strategy for DiCre-mediated inducible gene knockout in the malaria
-    parasite
-  authors:
-  - Anagha Rajesh Salvi
-  - Abhinay Ramaprasad
-  publisher: protocols.io
-  date: '2024-12-24'
-  link: https://dx.doi.org/10.17504/protocols.io.eq2ly68begx9/v1
-  type: protocols
-  description: This protocol describes a detailed strategy for inducibly knocking
-    out a target gene in Plasmodium species using the Dimerisable Cre (DiCre) recombinase
-    system, with a primary focus on *Plasmodium falciparum*.
-  image: https://content.protocols.io/files/sg94cdmmp.jpg
-  tags:
-  - DiCre
-  - protocols
-  abhinay-ramaprasad: true
-  anagharajesh-salvi: true
-  plugin: sources.py
-  file: sources.yaml
 - id: doi:10.1371/journal.ppat.1011449
   title: A malaria parasite phospholipase facilitates efficient asexual blood stage
     egress.
