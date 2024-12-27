@@ -42,7 +42,7 @@ We have open positions!
   link="https://www.findaphd.com/phds/project/dissecting-the-deciders-of-division-in-malaria-parasites/?p180045"
   title="Funded PhD studentship"
   subtitle="Dissecting the deciders of division in malaria parasites"
-  description="Application deadline: 1st April 2025 \ Position start: October 2025 (flexible)"
+  tag="Deadline: 1 Apr 2025, Start: Oct 2025 (flexible)"
   style="small"
 %}
 
