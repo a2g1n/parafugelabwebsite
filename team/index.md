@@ -38,7 +38,7 @@ We have open positions!
 
 {%
   include card.html
-  image="images/space.jpg"
+  image="images/dividingschizont.png"
   link="https://www.findaphd.com/phds/project/dissecting-the-deciders-of-division-in-malaria-parasites/?p180045"
   title="Funded PhD studentship"
   subtitle="Dissecting the deciders of division in malaria parasites"
