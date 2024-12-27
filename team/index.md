@@ -43,7 +43,7 @@ At the lab, we routinely identify interesting essential genes that could be inve
 {% capture content %}
 
 {% include figure.html image="images/ukri-mrc-square-logo.png" link="https://www.ukri.org/opportunity/career-development-award/" caption="MRC Career Development Award (2024-29)" %}
-{% include figure.html image="images/UoG_colour.png" link="https://www.gla.ac.uk/research/lkas/lkasfellowships/" caption="Lord Kevin / Adam Smith Fellowship (2024-29)" %}
+{% include figure.html image="images/UoG_colour.png" link="https://www.gla.ac.uk/research/lkas/lkasfellowships/" caption="Lord Kelvin / Adam Smith Fellowship (2024-29)" %}
 
 {% endcapture %}
 
