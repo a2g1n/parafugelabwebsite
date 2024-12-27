@@ -28,7 +28,7 @@
     - DiCre
     - protocols
 
-- title: Interactive R notebook associated with the GDPD publication
+- title: R notebook associated with the GDPD publication
   type: book
   description: useful for exploring lipidomics data of GDPD (PF3D7_1406300)-null mutants.
   authors:
@@ -47,7 +47,7 @@
     - dataset
     - code
 
-- title: Interactive R notebook associated with the LCAT publication
+- title: R notebook associated with the LCAT publication
   type: book
   description: useful for exploring data on LCAT (PF3D7_0629300)-null mutants.
   authors:
