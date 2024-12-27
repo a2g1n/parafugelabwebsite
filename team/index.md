@@ -32,9 +32,19 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 
 ## Join us
 
+At the lab, we routinely identify interesting essential genes that could be investigated further to uncover their important roles in the parasite. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+
 We have open positions!
 
-At the lab, we routinely identify interesting essential genes that could be investigated further to uncover their important roles in the parasite. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+{%
+  include card.html
+  image="images/space.jpg"
+  link="https://www.findaphd.com/phds/project/dissecting-the-deciders-of-division-in-malaria-parasites/?p180045"
+  title="Funded PhD studentship"
+  subtitle="Dissecting the deciders of division in malaria parasites"
+  description="Application deadline: 1st April 2025 \ Position start: October 2025 (flexible)"
+  style="small"
+%}
 
 {% include section.html %}
 
