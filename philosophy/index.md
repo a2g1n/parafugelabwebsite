@@ -9,11 +9,11 @@ nav:
 
 ## Work culture
 
-We aspire to do high-quality science. To do that, we ensure that the lab is a positive and supportive space to work in. We strive to be good lab citizens, generous with our time and know-how. We give honest, constructive feedback and celebrate each others' victories. We promote flexible work timings and mutual respect to everyone's time. We welcome multiculturalism, with our differences respected and admired. We value passion, persistence and healthy productivity.
+We aspire to do high-quality science. We foster a positive and supportive space to work in. We strive to be good lab citizens, generous with our time and know-how. We give honest, constructive feedback and celebrate each others' victories. We promote flexible work timings and mutual respect to everyone's time. We welcome diversity and admire our differences. We value passion, persistence and healthy productivity.
 
 ## Open Science
 
-We believe in open science. We are committed to openness and transparency at every stage of our research. Every experiment, reagent, data point, and code is available to all lab members through our [shared electronic lab notebook](https://elabftw.parafugelab.com/). We make all of this data public at the time of preprint. We preprint, always. We publish in open-access journals or ensure our articles are made open-access. We make detailed lab protocols public. We are constantly exploring effective ways to make our research more accessible.
+We believe in open science. We are committed to openness and transparency at every stage of our research. All lab members have access to every experiment, reagent, data point, and code through a shared ELN. We make all of this data public at the time of preprint. We always preprint. We publish in open-access journals or ensure our articles are made open-access. We make detailed lab protocols public. We are constantly exploring effective ways to make our research more accessible.
 
 ## Research Integrity
 
@@ -21,4 +21,4 @@ We value honesty and take pride in our work. We follow best practices to produce
 
 ## Mentorship
 
-We aim to produce good scientists. We encourage lab members of all career stages to think intentionally about their own career goals, short- and long-term. Well-rounded mentoring support can be expected from the PI - feasible plan for training and career development, regular 1-2-1 meetings and a push for tangible research outputs to evidence your work. Projects are tailored to mentee's aspirations and mentoring style to mentee needs. PI availability for timely feedback and advice is a guarantee.
+We aim to produce good scientists. We encourage lab members of all career stages to think intentionally about their own career goals, short- and long-term. Well-rounded support can be expected from the PI - feasible plan for training and career development, regular 1-2-1 meetings and a push for tangible research outputs to evidence your work. Projects are tailored to mentee's aspirations and mentoring style to mentee needs. PI availability for timely feedback and advice is a guarantee.
