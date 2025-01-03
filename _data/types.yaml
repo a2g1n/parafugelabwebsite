@@ -3,7 +3,7 @@
 # team member roles
 
 pi:
-  icon: fa-solid fa-compass
+  icon: fa-solid fa-user-secret
   description: Principal Investigator
 
 postdoc:
