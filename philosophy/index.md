@@ -7,7 +7,7 @@ nav:
 
 # {% include headicons.html icon="fa-solid fa-people-roof" %}Values
 
-## Work culture
+## Work Culture
 
 We aspire to do high-quality science. We foster a positive and supportive space to work in. We strive to be good lab citizens, generous with our time and know-how. We give honest, constructive feedback and celebrate each other's victories. We promote flexible work timings and mutual respect to everyone's time. We welcome diversity and admire our differences. We value passion, persistence and healthy productivity.
 
