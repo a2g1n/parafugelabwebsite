@@ -28,15 +28,14 @@
     - DiCre
     - protocols
 
-
-
 - title: Plasmid and gene loci maps related to SHIFTiKO
   type: plasmid
   publisher: Github
+  authors:
   - Abhinay Ramaprasad
   date: '2024-01-21'
   link: https://github.com/a2g1n/shiftiko_maps/tree/v1
-  image: images/sub2v2.png
+  image: images/SUB2v2.png
   tags:
     - SHIFTiKO
     - DiCre
