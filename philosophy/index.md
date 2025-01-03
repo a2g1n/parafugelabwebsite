@@ -5,7 +5,7 @@ nav:
   tooltip: Our approach to science
 ---
 
-# {% include icon.html icon="fa-solid fa-people-roof" %}Values
+# {% include headicons.html icon="fa-solid fa-people-roof" %}Values
 
 ## Work culture
 
