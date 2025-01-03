@@ -12,7 +12,7 @@
     - protocols
   date: '2024-12-24'
   link: https://dx.doi.org/10.17504/protocols.io.eq2ly68begx9/v1
-
+  
 - title: Single-step assembly of double guide plasmid (pCas9-Duo) for gene-editing in Plasmodium 
   type: protocols
   id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v1
@@ -27,6 +27,21 @@
     - SHIFTiKO
     - DiCre
     - protocols
+
+
+
+- title: Plasmid and gene loci maps related to SHIFTiKO
+  type: plasmid
+  publisher: Github
+  - Abhinay Ramaprasad
+  date: '2024-01-21'
+  link: https://github.com/a2g1n/shiftiko_maps/tree/v1
+  image: images/sub2v2.png
+  tags:
+    - SHIFTiKO
+    - DiCre
+    - plasmid maps
+
 
 - title: R notebook associated with the GDPD publication
   type: book
