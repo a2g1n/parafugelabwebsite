@@ -11,6 +11,14 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 
 To survive and multiply within red blood cells, the malaria parasite relies on nearly half of its ~5000 protein-coding genes. However, we still do not know what many of these important genes do. Studying these essential genes is difficult because of the parasite's haploid nature. We use the inducible Dimerisable Cre (DiCre)-lox system to precisely knock out target genes at desired stages of the replication cycle in the most lethal human malaria parasite, _Plasmodium falciparum_. This enables us to analyse the resulting phenotypes in a population of mutant parasites in a controlled manner through multi-omics strategies, live-cell time-lapse imaging, and detailed biochemical and molecular analyses. Recently, we developed a scalable refinement of this system called frameshift-based trackable inducible knockout (SHIFTiKO) that now allows us to conduct targeted inducible knockout screens of groups of essential genes, thereby speeding up gene function discovery.
 
+{%
+  include figure.html
+  image="images/shiftiko.png"
+  caption="SHIFTiKO workflow"
+  link="shiftiko"
+  width="400px"
+%}
+
 {% include section.html %}
 
 ## {% include headicons.html icon="fa-solid fa-newspaper" %}Publications
