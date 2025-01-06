@@ -47,7 +47,7 @@ We believe in open science and in sharing meaningful research outputs beyond tra
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Resources.png"
   link="resources"
   title="Our Resources"
   flip=true
