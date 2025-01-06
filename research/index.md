@@ -15,8 +15,7 @@ To survive and multiply within red blood cells, the malaria parasite relies on n
   include figure.html
   image="images/shiftiko.png"
   caption="SHIFTiKO workflow"
-  link="shiftiko"
-  width="400px"
+  link="https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae1274/7935003"
 %}
 
 {% include section.html %}
