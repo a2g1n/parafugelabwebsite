@@ -12,7 +12,7 @@ Our current quest is to understand how malaria parasites reproduce asexually wit
 {%
   include figure.html
   image="images/schizogony.png"
-  caption="Blood stage replication cycle of the malaria parasite"
+  caption="Replication cycle of the malaria parasite within a red blood cell"
   width="100%"
 %}
 
