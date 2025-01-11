@@ -1,7 +1,7 @@
 
 - title: pCas9-Duo gRNA verification
   type: app
-  description: to screen for colonies positive for both guides in pCas9-Duo plasmid
+  description: to screen for pCas9-Duo colonies positive for both guides.
   authors:
   - Abhinay Ramaprasad
   id: 
