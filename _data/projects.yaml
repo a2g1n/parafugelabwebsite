@@ -1,3 +1,27 @@
+
+- title: pCas9-Duo gRNA verification
+  type: app
+  description: to screen for colonies positive for both guides in pCas9-Duo plasmid
+  authors:
+  - Abhinay Ramaprasad
+  id: 
+  publisher: 
+  date: '2025-01-11'
+  image: https://protocols-files.s3.amazonaws.com/files/qssucdmmp.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFAX46LHRVQMGOA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T195935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f53523d1eb3b942d964c893bad0d3c59e28ceb8fd981b7d25b47b721e03d8fb
+  link: https://abbhinay.shinyapps.io/pCas9-Duo-check/
+  buttons:
+    - type: paper
+      text: Publication
+      link: https://elifesciences.org/articles/82207
+  tags:
+    - SHIFTiKO
+    - tool
+    - code
+
+
+
+
+
 - title: Design strategy for DiCre-mediated inducible gene knockout in the malaria parasite
   type: protocols
   id: doi:10.17504/protocols.io.eq2ly68begx9/v1
