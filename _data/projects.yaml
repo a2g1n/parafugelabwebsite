@@ -18,10 +18,6 @@
     - tool
     - code
 
-
-
-
-
 - title: Design strategy for DiCre-mediated inducible gene knockout in the malaria parasite
   type: protocols
   id: doi:10.17504/protocols.io.eq2ly68begx9/v1
@@ -47,6 +43,10 @@
   date: '2024-06-11'
   link: https://dx.doi.org/10.17504/protocols.io.n2bvjn9d5gk5/v1
   image: https://protocols-files.s3.amazonaws.com/files/qssucdmmp.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJYFAX46LHRVQMGOA%2F20250106%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250106T195935Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f53523d1eb3b942d964c893bad0d3c59e28ceb8fd981b7d25b47b721e03d8fb
+  buttons:
+    - type: paper
+      text: Publication
+      link: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae1274/7935003
   tags:
     - SHIFTiKO
     - DiCre
@@ -60,6 +60,10 @@
   date: '2024-01-21'
   link: https://github.com/a2g1n/shiftiko_maps/tree/v1
   image: images/SUB2v2.png
+  buttons:
+    - type: paper
+      text: Publication
+      link: https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae1274/7935003
   tags:
     - SHIFTiKO
     - DiCre
