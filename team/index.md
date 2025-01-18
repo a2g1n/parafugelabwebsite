@@ -51,7 +51,7 @@ We have open positions!
   image="images/dividingschizont.png"
   link="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-1"
   title="Postdoc"
-  subtitle="studying schizogony using single-cell transcriptomics"
+  subtitle="Studying schizogony using single-cell transcriptomics"
   description="Deadline - 14 Feb 2025 <br> Start - 1 Apr 2025 (flexible)"
   style="small"
 %}
