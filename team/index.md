@@ -52,7 +52,7 @@ We have open positions!
   link="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-1"
   title="Postdoc"
   subtitle="studying regulators of schizogony using single-cell transcriptomics"
-  description="Deadline - 14 Feb 2025 <br> Start - ASAP (flexible)"
+  description="Deadline - 14 Feb 2025 <br> Start - 1 Apr 2025 (flexible)"
   style="small"
 %}
 
