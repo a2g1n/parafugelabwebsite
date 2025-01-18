@@ -48,7 +48,7 @@ We have open positions!
 
 {%
   include card.html
-  image="images/dividingschizont.png"
+  image="images/schizont.png"
   link="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-1"
   title="Postdoc"
   subtitle="Studying schizogony using single-cell transcriptomics"
