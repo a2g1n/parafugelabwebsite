@@ -585,7 +585,7 @@
 - id: doi:10.1371/journal.pone.0124473
   type: paper
   title: Comprehensive evaluation of Toxoplasma gondii VEG and Neospora caninum LIV genomes with tachyzoite stage transcriptome and proteome defines novel transcript features
-  image: https://storage.googleapis.com/plos-corpus-prod/10.1371/journal.pone.0124473/1/pone.0124473.g002.PNG_L?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=wombat-sa%40plos-prod.iam.gserviceaccount.com%2F20241226%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20241226T144153Z&X-Goog-Expires=86400&X-Goog-SignedHeaders=host&X-Goog-Signature=821e118cc76ddba021ee6e291c9c0ba8cd4954d3d35602ae66110d5f3be6baabdd0a274271b0a6342e0f7999a0e5efb589910c238d0f5b018f3dba9b25c644b5c407398c12493fa45d2601bcec91830fc637e57bfbe70d6aba5665a1f14b7754c8699ce5311c6b9ac4e815c835688297c208f037b978a7a512db1564920cb9ed4173696305319aafa6b0119b7b841137728903715b8013ca1e1a0d4e00e2a59d7e9318958991c6dc2ca1caba10053fceddaaea031b68280dd37293659eff8f571f7a570b19d3cc5d565eda5000b6adf4473dfd684883f230d0e362d977fc2803809390c7de67683a6db3b74a36756348a84c0e1f08fbf735267c0487a7c0636b
+  image: https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0124473.g002&type=large
   buttons:
     - type: pdf
       text: Paper
