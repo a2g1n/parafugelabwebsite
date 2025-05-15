@@ -34,27 +34,27 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 
 At the lab, we routinely identify interesting essential genes that could be investigated further to uncover their important roles in the parasite. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
 
-We have open positions!
+#We have open positions!
 
-{%
-  include card.html
-  image="images/dividingschizont.png"
-  link="https://www.findaphd.com/phds/project/dissecting-the-deciders-of-division-in-malaria-parasites/?p180045"
-  title="Funded PhD studentship"
-  subtitle="Dissecting the deciders of division in malaria parasites"
-  description="Deadline - 1 Apr 2025 <br> Start - 1 Oct 2025 (flexible)"
-  style="small"
-%}
+#{%
+  #include card.html
+  #image="images/dividingschizont.png"
+  #link="https://www.findaphd.com/phds/project/dissecting-the-deciders-of-division-in-malaria-parasites/?p180045"
+  #title="Funded PhD studentship"
+  #subtitle="Dissecting the deciders of division in malaria parasites"
+  #description="Deadline - 1 Apr 2025 <br> Start - 1 Oct 2025 (flexible)"
+  #style="small"
+#%}
 
-{%
-  include card.html
-  image="images/schizont.png"
-  link="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-1"
-  title="Postdoc"
-  subtitle="Studying schizogony using single-cell transcriptomics"
-  description="Deadline - 14 Feb 2025 <br> Start - 1 Apr 2025 (flexible)"
-  style="small"
-%}
+#{%
+  #include card.html
+  #image="images/schizont.png"
+  #link="https://www.jobs.gla.ac.uk/job/research-assistant-slash-associate-1"
+  #title="Postdoc"
+  #subtitle="Studying schizogony using single-cell transcriptomics"
+  #description="Deadline - 14 Feb 2025 <br> Start - 1 Apr 2025 (flexible)"
+  #style="small"
+#%}
 
 {% include section.html %}
 
