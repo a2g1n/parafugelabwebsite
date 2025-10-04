@@ -7,21 +7,10 @@ nav:
 
 # {% include headicons.html icon="fa-solid fa-users" %}Team
 
-We are a fresh and dynamic malaria lab (just <span id="lab-age"></span> months old!) situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites and disrupting genes, and are always looking for better and more efficient ways to get these done. 
+We are a fresh and dynamic malaria lab situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites and disrupting genes, and are always looking for better and more efficient ways to get these done. 
 The mutants we generate often lead us down intriguing and unexpected paths of enquiry, pushing us to continuously learn, collaborate and imbibe new techniques and technologies.
 
 We foster a lab environment that is positive, inclusive and supportive, where diversity in skills and perspectives are celebrated and encouraged. Learn more about our <a href="../values/index.html">approach to science</a>.
-
-<script>
-  function calculateLabAge(startDate) {
-    const start = new Date(startDate);
-    const current = new Date();
-    const diffInMonths = (current.getFullYear() - start.getFullYear()) * 12 + current.getMonth() - start.getMonth();
-    return diffInMonths;
-  }
-
-  document.getElementById("lab-age").innerText = calculateLabAge("2024-09-02"); // Replace with your lab's start date
-</script>
 
 {% include section.html %}
 
