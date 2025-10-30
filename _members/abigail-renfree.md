@@ -1,6 +1,6 @@
 ---
 name: Abigail Renfree
-image: images/abigail.jpg
+image: images/Abigail.jpg
 role: phd
 ---
 
