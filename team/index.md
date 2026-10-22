@@ -8,7 +8,8 @@ nav:
 # {% include headicons.html icon="fa-solid fa-users" %}Team
 
 
-{% include figure.html image="images/groupphoto_2026.jpg" %}
+{% include figure.html image="images/groupphoto_2026.jpg" width="100%" %}
+
 We are a fresh and dynamic malaria lab situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites and disrupting genes, and are always looking for better and more efficient ways to get these done. 
 The mutants we generate often lead us down intriguing and unexpected paths of enquiry, pushing us to continuously learn, collaborate and imbibe new techniques and technologies.
 
