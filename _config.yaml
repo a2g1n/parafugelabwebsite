@@ -48,6 +48,10 @@ collections:
   # generate page for each member
   members:
     output: true
+  students:
+    output: true
+  alumni:
+    output: true
   # generate page for each post
   posts:
     output: true
