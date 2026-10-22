@@ -1,6 +1,6 @@
 ---
 name: Zihan Wang (Tom)
 image: images/.png
-description: Postgrad
-role: student
+description: Postgraduate student
+role: masters
 ---
