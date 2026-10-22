@@ -20,7 +20,17 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 
 
 {% include section.html %}
-{% include list.html data="students" component="portrait" %} 
+## {% include icon.html icon="fa-solid fa-user-graduate" %}Project Students
+{% include list.html data="students" component="portrait" filter="role == 'masters'" %}
+{% include list.html data="students" component="portrait" filter="role == 'bachelors'" %}
+{% include section.html background="images/background.jpg" dark=true %}
+
+{% include section.html %}
+## {% include icon.html icon="fa-solid fa-user-clock" %}Alumni
+{% include list.html data="students" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="students" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="students" component="portrait" filter="role == 'masters'" %}
+{% include list.html data="students" component="portrait" filter="role == 'bachelors'" %}
 {% include section.html background="images/background.jpg" dark=true %}
 
 ## Join us
