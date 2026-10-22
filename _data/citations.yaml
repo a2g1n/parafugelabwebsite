@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.17504/protocols.io.n2bvjn9d5gk5/v2
+  title: Single-step assembly of double guide plasmid (pCas9-Duo) for gene-editing
+    in Plasmodium  v2
+  authors:
+  - Abhinay Ramaprasad
+  publisher: Springer Science and Business Media LLC
+  date: '2025-12-24'
+  link: https://doi.org/hcpjs8
+  orcid: 0000-0001-9372-5526
+  abhinay-ramaprasad: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1093/nar/gkae1274
   title: A scaleable inducible knockout system for studying essential gene function
     in the malaria parasite
@@ -113,8 +125,8 @@
   - DiCre
   - phospholipases
 - id: doi:10.1128/mbio.01413-23
-  title: "Global analysis of putative phospholipases in\n            <i>Plasmodium\
-    \ falciparum</i>\n            reveals an essential role of the phosphoinositide-specific\
+  title: "Global analysis of putative phospholipases in\n                    <i>Plasmodium\
+    \ falciparum</i>\n                    reveals an essential role of the phosphoinositide-specific\
     \ phospholipase C in parasite maturation"
   authors:
   - Paul-Christian Burda
@@ -448,7 +460,7 @@
   - rodent malaria model
 - id: doi:10.1073/pnas.1522469113
   title: "Normocyte-binding protein required for human erythrocyte invasion by the\
-    \ zoonotic malaria parasite\n            <i>Plasmodium knowlesi</i>"
+    \ zoonotic malaria parasite\n                    <i>Plasmodium knowlesi</i>"
   authors:
   - Robert W. Moon
   - Hazem Sharaf
@@ -859,6 +871,28 @@
     link: https://repository.kaust.edu.sa/server/api/core/bitstreams/4c2cdfb8-99ae-4f64-8b63-6995ba0ba62d/content
   tags:
   - proteomics
+- id: doi:10.1101/2025.11.26.690747
+  title: Molecular and functional dissection of the AP2-I/BDP1 transcriptional complex
+    of the malaria parasite reveals a role beyond the red blood cell stages
+  authors:
+  - Marine Le Berre
+  - Lucille Mellottee
+  - Anagha Rajesh Salvi
+  - Pauline Touarin
+  - Sylvie Auxilien
+  - Virginie Ropars
+  - Marie Chaptal
+  - Cindy Ramiole
+  - Abhinay Ramaprasad
+  - Sylvie Nessler
+  - Joana M. Santos
+  publisher: openRxiv
+  date: '2025-11-26'
+  link: https://doi.org/hcpjs9
+  orcid: 0000-0001-9372-5526
+  abhinay-ramaprasad: true
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1371/journal.ppat.1011449
   title: A malaria parasite phospholipase facilitates efficient asexual blood stage
     egress
