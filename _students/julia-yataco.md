@@ -1,6 +1,6 @@
 ---
 name: Julia Stephen Yataco
 image: images/JuliaSY.png
-description: Undergrad
-role: student
+description: Undergraduate student
+role: bachelors
 ---
