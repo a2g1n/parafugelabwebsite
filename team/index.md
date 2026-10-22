@@ -25,6 +25,8 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 {% include list.html data="students" component="portrait" filter="role == 'bachelors'" %}
 {% include section.html background="images/background.jpg" dark=true %}
 
+collections: {{ site.collections | map: "label" | join: ", " }}
+
 {% include section.html %}
 ## {% include icon.html icon="fa-solid fa-user-clock" %}Alumni
 {% include list.html data="students" component="portrait" filter="role == 'postdoc'" %}
