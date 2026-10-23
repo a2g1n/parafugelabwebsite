@@ -50,6 +50,10 @@ We have got open positions!
 
 {% endcapture %}
 
+{% include grid.html style="square" content=content %}
+
+{% include section.html %}
+
 ## Our Funders
 
 {% capture content %}
