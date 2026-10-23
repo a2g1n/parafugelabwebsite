@@ -50,7 +50,7 @@ We have got open positions!
 
 {% endcapture %}
 
-{% include grid.html style="square" content=content %}
+{% include grid.html style="square" content=positions %}
 
 {% include section.html %}
 
