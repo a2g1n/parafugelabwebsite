@@ -8,7 +8,7 @@ nav:
 # {% include headicons.html icon="fa-solid fa-users" %}Team
 
 
-{% include figure.html image="images/groupphoto_2026.jpg" width="100%" %}
+{% include figure.html image="images/groupphoto_2026.jpg" width="75%" %}
 
 We are a fresh and dynamic malaria lab situated within Glasgow’s vibrant parasitology community. We love constructing plasmids, culturing malaria parasites and disrupting genes, and are always looking for better and more efficient ways to get these done. 
 The mutants we generate often lead us down intriguing and unexpected paths of enquiry, pushing us to continuously learn, collaborate and imbibe new techniques and technologies.
@@ -39,6 +39,12 @@ We foster a lab environment that is positive, inclusive and supportive, where di
 ## Join us
 
 At the lab, we routinely identify interesting essential genes that could be investigated further to uncover their important roles in the parasite. With this as a starting point, we can shape projects around your interests and also offer support to help create strong proposals for independent fellowships or studentships. Feel free to contact us to discuss opportunities!
+
+We have got open positions!
+
+{% include figure.html image="images/dividingschizont.png" link="https://www.jobs.gla.ac.uk/job/technician-6067214" caption="**Research Technician** — applications close 19 Nov" %}
+
+{% include figure.html image="images/schizont.png" link="https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/bioscience/abhinayramaprasad/#d.en.913163" caption="**NorthWestBio PhD studentship** — applications close 30 Nov (international) and 4 Jan (home)" %}
 
 {% include section.html %}
 
