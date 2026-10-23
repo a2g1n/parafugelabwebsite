@@ -46,7 +46,7 @@ We have got open positions!
 
 {% include figure.html image="images/dividingschizont.png" link="https://www.jobs.gla.ac.uk/job/technician-6067214" caption="**Research Technician** — applications close 19 Nov" %}
 
-{% include figure.html image="images/schizont.png" link="https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/bioscience/abhinayramaprasad/#d.en.913163" caption="**NorthWestBio PhD studentship** — applications close 30 Nov (international) and 4 Jan (home)" %}
+{% include figure.html image="images/schizont.png" link="https://www.gla.ac.uk/postgraduate/doctoraltraining/northwestbio/projects/bioscience/abhinayramaprasad/#d.en.913163" caption="**NorthWestBio PhD studentship** — applications close 30 Nov (int'l) / 4 Jan (home)" %}
 
 {% endcapture %}
 
