@@ -58,7 +58,7 @@ We have got open positions!
 
 {% capture content %}
 
-{% include figure.html image="images/ukri-mrc-square-logo.png" link="https://www.ukri.org/opportunity/career-development-award/" caption="MRC Career Development Award (2024-29)" %}
+{% include figure.html image="images/ukri-mrc-square-logo.png" link="https://gtr.ukri.org/projects?ref=MR%2FZ504762%2F1" caption="MRC Career Development Award (2024-29)" %}
 {% include figure.html image="images/UoG_colour.png" link="https://www.gla.ac.uk/research/lkas/lkasfellowships/" caption="Lord Kelvin / Adam Smith Fellowship (2024-29)" %}
 
 {% endcapture %}
