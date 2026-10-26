@@ -1,7 +1,7 @@
 ---
 name: Muzamil Mahdi Abdel Hamid ElMahdi
 image: images/MuzamilM.jpg
-description: CARA Fellow
+description: Affiliate Researcher
 role: postdoc
 aliases:
   - Muzamil M Abdel Hamid
